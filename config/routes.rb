@@ -1,4 +1,8 @@
 Trip2to::Application.routes.draw do
+  get "trip/index"
+
+  get "trip/status"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

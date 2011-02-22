@@ -1,13 +1,10 @@
 require 'http_getter_engine'
 require "geo_ruby"
+require "http_enginable"
 
 class TrafficEngine
 
-  @engine = HttpGetterEngine.new
-
-  def engine=(val)
-    @engine = val
-  end
+include HttpEnginable
 
   def is_area_congested(lat, lon)
 
@@ -24,19 +21,20 @@ class TrafficEngine
          actual_point.x= p.attributes['lng'].to_f
          actual_point.y=  p.attributes['lat'].to_f
          distance =  base_point.spherical_distance actual_point
-         if distance < 4000
-           puts p.attributes["lcd1"] , distance
+         if distance < 5000
+
            if p.attributes["direction"] == "positive"
              balance = balance + 1
              avarage_speed = avarage_speed + p.elements["speedflow"].attributes["speed"].to_f
-           # else
-           #   balance = balance - 1
+
            end
          end
       end
       puts "balance : #{balance}"
       avarage_speed = avarage_speed / balance
       puts "avarage speed : #{avarage_speed}"
+
+      {:balance => balance, :avarage_speed => avarage_speed}
 
 
   end

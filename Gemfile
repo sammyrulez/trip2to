@@ -10,6 +10,8 @@ gem 'rcov'
 gem 'grit'
 gem 'httparty'
 gem 'GeoRuby'
+gem "json"
+gem "gmaps4rails"
 
 
 
