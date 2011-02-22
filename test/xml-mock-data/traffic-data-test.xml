@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<traffic_data xmlns="http://www.5t.torino.it/simone/ns/traffic_data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.5t.torino.it/simone/ns/traffic_data traffic_data.xsd" datatype="misura" generation_time="2011-02-22T12:06:00+01:00" start_time="2011-02-22T12:00:00+01:00" end_time="2011-02-22T12:05:00+01:00" source="matrix.FDT">
+  <location_reference>
+    <WGS84_info/>
+  </location_reference>
+  <FDT_data lcd1="40303" offset="33" direction="positive" lat="45.11186" lng="7.65732" period="5">
+    <speedflow flow="250.33" speed="41.07"/>
+  </FDT_data>
+  <FDT_data lcd1="35818" offset="439" direction="positive" lat="45.13812" lng="7.65605" period="5">
+    <speedflow flow="672.37" speed="50.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40194" offset="1347" direction="positive" lat="45.10720" lng="7.69686" period="5">
+    <speedflow flow="1103.00" speed="33.73"/>
+  </FDT_data>
+  <FDT_data lcd1="40040" offset="414" direction="positive" lat="45.11606" lng="7.70910" period="5">
+    <speedflow flow="803.00" speed="53.76"/>
+  </FDT_data>
+  <FDT_data lcd1="40041" offset="574" direction="negative" lat="45.11641" lng="7.70983" period="5">
+    <speedflow flow="981.79" speed="26.56"/>
+  </FDT_data>
+  <FDT_data lcd1="35880" offset="1006" direction="positive" lat="45.15660" lng="7.70955" period="5">
+    <speedflow flow="435.05" speed="34.96"/>
+  </FDT_data>
+  <FDT_data lcd1="39996" offset="158" direction="negative" lat="45.07573" lng="7.73102" period="5">
+    <speedflow flow="397.20" speed="24.64"/>
+  </FDT_data>
+  <FDT_data lcd1="39996" offset="102" direction="positive" lat="45.07499" lng="7.73038" period="5">
+    <speedflow flow="477.96" speed="20.57"/>
+  </FDT_data>
+  <FDT_data lcd1="39986" offset="40" direction="positive" lat="45.07542" lng="7.72906" period="5">
+    <speedflow flow="506.02" speed="14.73"/>
+  </FDT_data>
+  <FDT_data lcd1="39995" offset="472" direction="positive" lat="45.07618" lng="7.73117" period="5">
+    <speedflow flow="143.48" speed="25.30"/>
+  </FDT_data>
+  <FDT_data lcd1="40174" offset="704" direction="positive" lat="45.01515" lng="7.66891" period="5">
+    <speedflow flow="1862.29" speed="39.99"/>
+  </FDT_data>
+  <FDT_data lcd1="40182" offset="434" direction="positive" lat="45.01641" lng="7.62801" period="5">
+    <speedflow flow="838.84" speed="51.36"/>
+  </FDT_data>
+  <FDT_data lcd1="40183" offset="988" direction="negative" lat="45.01608" lng="7.62745" period="5">
+    <speedflow flow="996.87" speed="36.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40021" offset="549" direction="positive" lat="45.07420" lng="7.61264" period="5">
+    <speedflow flow="1048.00" speed="20.93"/>
+  </FDT_data>
+  <FDT_data lcd1="40270" offset="30" direction="positive" lat="45.06462" lng="7.62331" period="5">
+    <speedflow flow="1039.37" speed="30.06"/>
+  </FDT_data>
+  <FDT_data lcd1="40298" offset="13" direction="negative" lat="45.06423" lng="7.62331" period="5">
+    <speedflow flow="900.66" speed="46.65"/>
+  </FDT_data>
+  <FDT_data lcd1="40022" offset="124" direction="positive" lat="45.07437" lng="7.61575" period="5">
+    <speedflow flow="1417.64" speed="28.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40023" offset="358" direction="positive" lat="45.07460" lng="7.62307" period="5">
+    <speedflow flow="1093.34" speed="42.11"/>
+  </FDT_data>
+  <FDT_data lcd1="40271" offset="1066" direction="negative" lat="45.06563" lng="7.62216" period="5">
+    <speedflow flow="692.64" speed="30.83"/>
+  </FDT_data>
+  <FDT_data lcd1="40103" offset="119" direction="positive" lat="45.07403" lng="7.62504" period="5">
+    <speedflow flow="857.28" speed="24.83"/>
+  </FDT_data>
+  <FDT_data lcd1="40024" offset="74" direction="negative" lat="45.07476" lng="7.62333" period="5">
+    <speedflow flow="1440.30" speed="46.43"/>
+  </FDT_data>
+  <FDT_data lcd1="40024" offset="73" direction="positive" lat="45.07478" lng="7.62481" period="5">
+    <speedflow flow="299.86" speed="18.15"/>
+  </FDT_data>
+  <FDT_data lcd1="40104" offset="798" direction="negative" lat="45.07393" lng="7.62585" period="5">
+    <speedflow flow="1095.66" speed="21.35"/>
+  </FDT_data>
+  <FDT_data lcd1="40077" offset="1718" direction="positive" lat="45.07437" lng="7.63546" period="5">
+    <speedflow flow="285.52" speed="18.90"/>
+  </FDT_data>
+  <FDT_data lcd1="40078" offset="34" direction="negative" lat="45.07487" lng="7.63529" period="5">
+    <speedflow flow="91.16" speed="18.08"/>
+  </FDT_data>
+  <FDT_data lcd1="40080" offset="64" direction="positive" lat="45.07557" lng="7.63600" period="5">
+    <speedflow flow="357.38" speed="23.33"/>
+  </FDT_data>
+  <FDT_data lcd1="40025" offset="33" direction="negative" lat="45.07523" lng="7.63523" period="5">
+    <speedflow flow="540.14" speed="18.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40025" offset="48" direction="positive" lat="45.07515" lng="7.63603" period="5">
+    <speedflow flow="425.58" speed="24.89"/>
+  </FDT_data>
+  <FDT_data lcd1="40171" offset="742" direction="negative" lat="45.06981" lng="7.63893" period="5">
+    <speedflow flow="1261.30" speed="23.49"/>
+  </FDT_data>
+  <FDT_data lcd1="40170" offset="147" direction="positive" lat="45.07008" lng="7.63936" period="5">
+    <speedflow flow="1061.34" speed="45.47"/>
+  </FDT_data>
+  <FDT_data lcd1="40104" offset="297" direction="positive" lat="45.06931" lng="7.63687" period="5">
+    <speedflow flow="628.56" speed="18.52"/>
+  </FDT_data>
+  <FDT_data lcd1="40170" offset="37" direction="positive" lat="45.06922" lng="7.63859" period="5">
+    <speedflow flow="1101.56" speed="19.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40105" offset="64" direction="negative" lat="45.06916" lng="7.63807" period="5">
+    <speedflow flow="1058.28" speed="24.35"/>
+  </FDT_data>
+  <FDT_data lcd1="40170" offset="46" direction="negative" lat="45.06871" lng="7.63819" period="5">
+    <speedflow flow="1025.25" speed="44.37"/>
+  </FDT_data>
+  <FDT_data lcd1="40105" offset="27" direction="positive" lat="45.06863" lng="7.63881" period="5">
+    <speedflow flow="1000.15" speed="21.60"/>
+  </FDT_data>
+  <FDT_data lcd1="40169" offset="789" direction="positive" lat="45.06489" lng="7.63678" period="5">
+    <speedflow flow="1460.64" speed="37.42"/>
+  </FDT_data>
+  <FDT_data lcd1="40170" offset="543" direction="negative" lat="45.06437" lng="7.63627" period="5">
+    <speedflow flow="1242.11" speed="36.44"/>
+  </FDT_data>
+  <FDT_data lcd1="40081" offset="850" direction="negative" lat="45.07608" lng="7.63581" period="5">
+    <speedflow flow="282.17" speed="18.33"/>
+  </FDT_data>
+  <FDT_data lcd1="40305" offset="620" direction="negative" lat="45.10109" lng="7.63968" period="5">
+    <speedflow flow="1097.71" speed="29.71"/>
+  </FDT_data>
+  <FDT_data lcd1="40304" offset="873" direction="positive" lat="45.10159" lng="7.64014" period="5">
+    <speedflow flow="960.00" speed="19.14"/>
+  </FDT_data>
+  <FDT_data lcd1="40305" offset="751" direction="negative" lat="45.10184" lng="7.64104" period="5">
+    <speedflow flow="948.00" speed="27.97"/>
+  </FDT_data>
+  <FDT_data lcd1="40106" offset="95" direction="negative" lat="45.06522" lng="7.64832" period="5">
+    <speedflow flow="1020.00" speed="19.42"/>
+  </FDT_data>
+  <FDT_data lcd1="40106" offset="68" direction="positive" lat="45.06452" lng="7.64980" period="5">
+    <speedflow flow="828.00" speed="25.44"/>
+  </FDT_data>
+  <FDT_data lcd1="40105" offset="611" direction="positive" lat="45.06623" lng="7.64531" period="5">
+    <speedflow flow="720.00" speed="18.71"/>
+  </FDT_data>
+  <FDT_data lcd1="40106" offset="401" direction="negative" lat="45.06659" lng="7.64477" period="5">
+    <speedflow flow="944.61" speed="19.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40206" offset="51" direction="positive" lat="45.07089" lng="7.65609" period="5">
+    <speedflow flow="841.68" speed="24.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40205" offset="781" direction="positive" lat="45.07249" lng="7.65158" period="5">
+    <speedflow flow="600.00" speed="29.29"/>
+  </FDT_data>
+  <FDT_data lcd1="40027" offset="648" direction="negative" lat="45.07576" lng="7.64771" period="5">
+    <speedflow flow="579.37" speed="31.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40026" offset="456" direction="positive" lat="45.07567" lng="7.64924" period="5">
+    <speedflow flow="556.40" speed="32.31"/>
+  </FDT_data>
+  <FDT_data lcd1="40207" offset="1019" direction="negative" lat="45.06977" lng="7.65941" period="5">
+    <speedflow flow="833.95" speed="22.30"/>
+  </FDT_data>
+  <FDT_data lcd1="40207" offset="798" direction="negative" lat="45.06878" lng="7.66210" period="5">
+    <speedflow flow="883.58" speed="24.92"/>
+  </FDT_data>
+  <FDT_data lcd1="40207" offset="458" direction="negative" lat="45.06758" lng="7.66577" period="5">
+    <speedflow flow="721.31" speed="18.44"/>
+  </FDT_data>
+  <FDT_data lcd1="40012" offset="40" direction="negative" lat="45.06702" lng="7.66591" period="5">
+    <speedflow flow="636.53" speed="23.55"/>
+  </FDT_data>
+  <FDT_data lcd1="40206" offset="978" direction="positive" lat="45.06704" lng="7.66658" period="5">
+    <speedflow flow="695.90" speed="17.49"/>
+  </FDT_data>
+  <FDT_data lcd1="40202" offset="55" direction="positive" lat="45.06766" lng="7.66662" period="5">
+    <speedflow flow="972.51" speed="17.29"/>
+  </FDT_data>
+  <FDT_data lcd1="40011" offset="753" direction="positive" lat="45.06616" lng="7.66552" period="5">
+    <speedflow flow="441.86" speed="27.39"/>
+  </FDT_data>
+  <FDT_data lcd1="40012" offset="334" direction="negative" lat="45.06470" lng="7.66422" period="5">
+    <speedflow flow="741.94" speed="24.29"/>
+  </FDT_data>
+  <FDT_data lcd1="40117" offset="34" direction="negative" lat="45.06433" lng="7.67369" period="5">
+    <speedflow flow="766.91" speed="21.88"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="601" direction="negative" lat="45.06480" lng="7.67358" period="5">
+    <speedflow flow="785.21" speed="28.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40207" offset="292" direction="positive" lat="45.06440" lng="7.67422" period="5">
+    <speedflow flow="944.12" speed="22.56"/>
+  </FDT_data>
+  <FDT_data lcd1="40056" offset="762" direction="positive" lat="45.07981" lng="7.64646" period="5">
+    <speedflow flow="1281.75" speed="28.15"/>
+  </FDT_data>
+  <FDT_data lcd1="40266" offset="71" direction="positive" lat="45.07343" lng="7.66869" period="5">
+    <speedflow flow="436.37" speed="16.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40267" offset="423" direction="negative" lat="45.07312" lng="7.66998" period="5">
+    <speedflow flow="462.80" speed="18.63"/>
+  </FDT_data>
+  <FDT_data lcd1="40266" offset="241" direction="positive" lat="45.07274" lng="7.67068" period="5">
+    <speedflow flow="694.44" speed="15.55"/>
+  </FDT_data>
+  <FDT_data lcd1="40203" offset="48" direction="negative" lat="45.07262" lng="7.66991" period="5">
+    <speedflow flow="233.79" speed="18.52"/>
+  </FDT_data>
+  <FDT_data lcd1="40267" offset="301" direction="negative" lat="45.07261" lng="7.67135" period="5">
+    <speedflow flow="696.20" speed="13.76"/>
+  </FDT_data>
+  <FDT_data lcd1="40266" offset="326" direction="positive" lat="45.07241" lng="7.67172" period="5">
+    <speedflow flow="576.10" speed="14.39"/>
+  </FDT_data>
+  <FDT_data lcd1="40126" offset="49" direction="positive" lat="45.07878" lng="7.67675" period="5">
+    <speedflow flow="1133.73" speed="22.02"/>
+  </FDT_data>
+  <FDT_data lcd1="40126" offset="102" direction="negative" lat="45.07948" lng="7.67544" period="5">
+    <speedflow flow="235.65" speed="27.94"/>
+  </FDT_data>
+  <FDT_data lcd1="40125" offset="30" direction="positive" lat="45.08220" lng="7.66692" period="5">
+    <speedflow flow="478.30" speed="23.65"/>
+  </FDT_data>
+  <FDT_data lcd1="40125" offset="36" direction="negative" lat="45.08252" lng="7.66632" period="5">
+    <speedflow flow="589.90" speed="24.93"/>
+  </FDT_data>
+  <FDT_data lcd1="40127" offset="405" direction="negative" lat="45.07826" lng="7.67918" period="5">
+    <speedflow flow="816.00" speed="19.72"/>
+  </FDT_data>
+  <FDT_data lcd1="40126" offset="292" direction="positive" lat="45.07798" lng="7.67970" period="5">
+    <speedflow flow="791.00" speed="27.89"/>
+  </FDT_data>
+  <FDT_data lcd1="40127" offset="261" direction="positive" lat="45.07554" lng="7.68667" period="5">
+    <speedflow flow="548.38" speed="27.69"/>
+  </FDT_data>
+  <FDT_data lcd1="40128" offset="140" direction="negative" lat="45.07515" lng="7.68848" period="5">
+    <speedflow flow="876.00" speed="28.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40128" offset="92" direction="negative" lat="45.07511" lng="7.68899" period="5">
+    <speedflow flow="342.30" speed="31.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40147" offset="58" direction="negative" lat="45.07417" lng="7.69008" period="5">
+    <speedflow flow="311.00" speed="19.14"/>
+  </FDT_data>
+  <FDT_data lcd1="40134" offset="67" direction="negative" lat="45.07500" lng="7.69040" period="5">
+    <speedflow flow="610.33" speed="11.68"/>
+  </FDT_data>
+  <FDT_data lcd1="40128" offset="69" direction="positive" lat="45.07443" lng="7.69046" period="5">
+    <speedflow flow="532.02" speed="26.57"/>
+  </FDT_data>
+  <FDT_data lcd1="40146" offset="998" direction="positive" lat="45.07289" lng="7.69154" period="5">
+    <speedflow flow="563.00" speed="17.90"/>
+  </FDT_data>
+  <FDT_data lcd1="40147" offset="319" direction="negative" lat="45.07239" lng="7.69161" period="5">
+    <speedflow flow="324.00" speed="13.51"/>
+  </FDT_data>
+  <FDT_data lcd1="40146" offset="860" direction="positive" lat="45.07188" lng="7.69256" period="5">
+    <speedflow flow="600.68" speed="13.50"/>
+  </FDT_data>
+  <FDT_data lcd1="40147" offset="427" direction="negative" lat="45.07147" lng="7.69276" period="5">
+    <speedflow flow="324.00" speed="16.63"/>
+  </FDT_data>
+  <FDT_data lcd1="40146" offset="36" direction="positive" lat="45.06579" lng="7.69857" period="5">
+    <speedflow flow="185.35" speed="19.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40228" offset="36" direction="negative" lat="45.06747" lng="7.70893" period="5">
+    <speedflow flow="1016.97" speed="18.99"/>
+  </FDT_data>
+  <FDT_data lcd1="39998" offset="76" direction="positive" lat="45.06712" lng="7.70839" period="5">
+    <speedflow flow="1360.13" speed="13.92"/>
+  </FDT_data>
+  <FDT_data lcd1="39998" offset="20" direction="negative" lat="45.06728" lng="7.70934" period="5">
+    <speedflow flow="922.31" speed="20.00"/>
+  </FDT_data>
+  <FDT_data lcd1="39997" offset="476" direction="negative" lat="45.07445" lng="7.73012" period="5">
+    <speedflow flow="676.24" speed="18.18"/>
+  </FDT_data>
+  <FDT_data lcd1="40227" offset="24" direction="positive" lat="45.06864" lng="7.70787" period="5">
+    <speedflow flow="1092.70" speed="17.86"/>
+  </FDT_data>
+  <FDT_data lcd1="40130" offset="151" direction="negative" lat="45.06922" lng="7.70654" period="5">
+    <speedflow flow="645.44" speed="26.66"/>
+  </FDT_data>
+  <FDT_data lcd1="40166" offset="75" direction="negative" lat="45.06956" lng="7.70824" period="5">
+    <speedflow flow="743.00" speed="19.57"/>
+  </FDT_data>
+  <FDT_data lcd1="40129" offset="221" direction="positive" lat="45.06975" lng="7.70460" period="5">
+    <speedflow flow="335.00" speed="27.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40130" offset="375" direction="negative" lat="45.07013" lng="7.70375" period="5">
+    <speedflow flow="180.00" speed="24.18"/>
+  </FDT_data>
+  <FDT_data lcd1="40129" offset="14" direction="positive" lat="45.07051" lng="7.70223" period="5">
+    <speedflow flow="235.94" speed="25.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40129" offset="110" direction="negative" lat="45.07101" lng="7.70108" period="5">
+    <speedflow flow="360.00" speed="25.87"/>
+  </FDT_data>
+  <FDT_data lcd1="40165" offset="504" direction="positive" lat="45.07095" lng="7.70762" period="5">
+    <speedflow flow="828.17" speed="28.03"/>
+  </FDT_data>
+  <FDT_data lcd1="40166" offset="613" direction="negative" lat="45.07401" lng="7.70576" period="5">
+    <speedflow flow="907.95" speed="24.01"/>
+  </FDT_data>
+  <FDT_data lcd1="39987" offset="92" direction="negative" lat="45.07190" lng="7.70651" period="5">
+    <speedflow flow="364.15" speed="17.55"/>
+  </FDT_data>
+  <FDT_data lcd1="39987" offset="52" direction="positive" lat="45.07197" lng="7.70796" period="5">
+    <speedflow flow="495.50" speed="24.04"/>
+  </FDT_data>
+  <FDT_data lcd1="40165" offset="26" direction="positive" lat="45.07482" lng="7.70491" period="5">
+    <speedflow flow="563.00" speed="21.36"/>
+  </FDT_data>
+  <FDT_data lcd1="40219" offset="27" direction="negative" lat="45.07531" lng="7.70473" period="5">
+    <speedflow flow="1247.00" speed="15.23"/>
+  </FDT_data>
+  <FDT_data lcd1="39986" offset="1327" direction="positive" lat="45.07305" lng="7.71326" period="5">
+    <speedflow flow="566.16" speed="18.28"/>
+  </FDT_data>
+  <FDT_data lcd1="39987" offset="708" direction="negative" lat="45.07318" lng="7.71486" period="5">
+    <speedflow flow="708.00" speed="15.74"/>
+  </FDT_data>
+  <FDT_data lcd1="39986" offset="952" direction="positive" lat="45.07381" lng="7.71785" period="5">
+    <speedflow flow="558.99" speed="15.21"/>
+  </FDT_data>
+  <FDT_data lcd1="39987" offset="970" direction="negative" lat="45.07390" lng="7.71929" period="5">
+    <speedflow flow="554.82" speed="18.89"/>
+  </FDT_data>
+  <FDT_data lcd1="39987" offset="1638" direction="negative" lat="45.07530" lng="7.72759" period="5">
+    <speedflow flow="1162.11" speed="20.79"/>
+  </FDT_data>
+  <FDT_data lcd1="39986" offset="687" direction="positive" lat="45.07443" lng="7.72149" period="5">
+    <speedflow flow="588.00" speed="19.55"/>
+  </FDT_data>
+  <FDT_data lcd1="39987" offset="1396" direction="negative" lat="45.07479" lng="7.72452" period="5">
+    <speedflow flow="671.00" speed="17.11"/>
+  </FDT_data>
+  <FDT_data lcd1="40218" offset="25" direction="positive" lat="45.07556" lng="7.70406" period="5">
+    <speedflow flow="1320.00" speed="14.85"/>
+  </FDT_data>
+  <FDT_data lcd1="40092" offset="137" direction="negative" lat="45.07654" lng="7.70329" period="5">
+    <speedflow flow="1135.45" speed="29.25"/>
+  </FDT_data>
+  <FDT_data lcd1="40132" offset="2115" direction="positive" lat="45.08043" lng="7.70236" period="5">
+    <speedflow flow="263.33" speed="32.39"/>
+  </FDT_data>
+  <FDT_data lcd1="40133" offset="1877" direction="negative" lat="45.09248" lng="7.71510" period="5">
+    <speedflow flow="470.96" speed="14.25"/>
+  </FDT_data>
+  <FDT_data lcd1="40090" offset="743" direction="positive" lat="45.08310" lng="7.69749" period="5">
+    <speedflow flow="701.68" speed="26.17"/>
+  </FDT_data>
+  <FDT_data lcd1="40091" offset="707" direction="negative" lat="45.08495" lng="7.69599" period="5">
+    <speedflow flow="723.33" speed="20.22"/>
+  </FDT_data>
+  <FDT_data lcd1="40133" offset="40" direction="negative" lat="45.07978" lng="7.70111" period="5">
+    <speedflow flow="528.00" speed="34.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40091" offset="31" direction="negative" lat="45.07986" lng="7.70057" period="5">
+    <speedflow flow="600.00" speed="25.55"/>
+  </FDT_data>
+  <FDT_data lcd1="40133" offset="69" direction="positive" lat="45.07952" lng="7.70005" period="5">
+    <speedflow flow="240.00" speed="19.21"/>
+  </FDT_data>
+  <FDT_data lcd1="40134" offset="1029" direction="negative" lat="45.07941" lng="7.70073" period="5">
+    <speedflow flow="180.00" speed="14.43"/>
+  </FDT_data>
+  <FDT_data lcd1="40128" offset="380" direction="positive" lat="45.07322" lng="7.69412" period="5">
+    <speedflow flow="530.01" speed="22.66"/>
+  </FDT_data>
+  <FDT_data lcd1="40129" offset="764" direction="negative" lat="45.07350" lng="7.69343" period="5">
+    <speedflow flow="476.11" speed="19.82"/>
+  </FDT_data>
+  <FDT_data lcd1="40044" offset="793" direction="positive" lat="45.08135" lng="7.68658" period="5">
+    <speedflow flow="215.00" speed="13.50"/>
+  </FDT_data>
+  <FDT_data lcd1="40045" offset="518" direction="negative" lat="45.08178" lng="7.68698" period="5">
+    <speedflow flow="395.54" speed="19.12"/>
+  </FDT_data>
+  <FDT_data lcd1="40044" offset="617" direction="positive" lat="45.08285" lng="7.68748" period="5">
+    <speedflow flow="147.02" speed="14.76"/>
+  </FDT_data>
+  <FDT_data lcd1="40045" offset="689" direction="negative" lat="45.08313" lng="7.68794" period="5">
+    <speedflow flow="389.98" speed="13.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40087" offset="17" direction="negative" lat="45.09168" lng="7.66309" period="5">
+    <speedflow flow="237.34" speed="31.65"/>
+  </FDT_data>
+  <FDT_data lcd1="40111" offset="31" direction="positive" lat="45.09166" lng="7.65419" period="5">
+    <speedflow flow="1453.36" speed="38.70"/>
+  </FDT_data>
+  <FDT_data lcd1="40111" offset="51" direction="negative" lat="45.09190" lng="7.65464" period="5">
+    <speedflow flow="802.96" speed="39.98"/>
+  </FDT_data>
+  <FDT_data lcd1="40284" offset="64" direction="negative" lat="45.09198" lng="7.65406" period="5">
+    <speedflow flow="468.00" speed="17.85"/>
+  </FDT_data>
+  <FDT_data lcd1="40284" offset="48" direction="positive" lat="45.09134" lng="7.65489" period="5">
+    <speedflow flow="444.00" speed="23.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40124" offset="105" direction="negative" lat="45.08602" lng="7.65532" period="5">
+    <speedflow flow="830.68" speed="23.80"/>
+  </FDT_data>
+  <FDT_data lcd1="40123" offset="153" direction="positive" lat="45.08680" lng="7.65311" period="5">
+    <speedflow flow="580.04" speed="23.07"/>
+  </FDT_data>
+  <FDT_data lcd1="40056" offset="1430" direction="positive" lat="45.08524" lng="7.65015" period="5">
+    <speedflow flow="1458.16" speed="32.78"/>
+  </FDT_data>
+  <FDT_data lcd1="40056" offset="1204" direction="positive" lat="45.08342" lng="7.64884" period="5">
+    <speedflow flow="738.09" speed="15.07"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="771" direction="positive" lat="45.09423" lng="7.65603" period="5">
+    <speedflow flow="1062.32" speed="38.82"/>
+  </FDT_data>
+  <FDT_data lcd1="40111" offset="378" direction="negative" lat="45.09455" lng="7.65633" period="5">
+    <speedflow flow="929.27" speed="30.55"/>
+  </FDT_data>
+  <FDT_data lcd1="40283" offset="1711" direction="positive" lat="45.09240" lng="7.65328" period="5">
+    <speedflow flow="282.28" speed="23.59"/>
+  </FDT_data>
+  <FDT_data lcd1="40304" offset="787" direction="positive" lat="45.10238" lng="7.64146" period="5">
+    <speedflow flow="683.00" speed="37.24"/>
+  </FDT_data>
+  <FDT_data lcd1="40111" offset="728" direction="negative" lat="45.09742" lng="7.65834" period="5">
+    <speedflow flow="1030.54" speed="40.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="522" direction="positive" lat="45.09626" lng="7.65732" period="5">
+    <speedflow flow="1069.52" speed="37.04"/>
+  </FDT_data>
+  <FDT_data lcd1="40200" offset="44" direction="negative" lat="45.08904" lng="7.68790" period="5">
+    <speedflow flow="594.49" speed="23.81"/>
+  </FDT_data>
+  <FDT_data lcd1="40089" offset="35" direction="positive" lat="45.08869" lng="7.68849" period="5">
+    <speedflow flow="704.79" speed="26.05"/>
+  </FDT_data>
+  <FDT_data lcd1="40196" offset="105" direction="negative" lat="45.08997" lng="7.68879" period="5">
+    <speedflow flow="415.20" speed="13.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40090" offset="47" direction="negative" lat="45.08801" lng="7.69045" period="5">
+    <speedflow flow="529.80" speed="23.40"/>
+  </FDT_data>
+  <FDT_data lcd1="40090" offset="26" direction="positive" lat="45.08765" lng="7.69109" period="5">
+    <speedflow flow="425.33" speed="19.86"/>
+  </FDT_data>
+  <FDT_data lcd1="40044" offset="42" direction="negative" lat="45.08811" lng="7.69118" period="5">
+    <speedflow flow="892.74" speed="15.68"/>
+  </FDT_data>
+  <FDT_data lcd1="40044" offset="53" direction="positive" lat="45.08746" lng="7.69048" period="5">
+    <speedflow flow="444.00" speed="17.32"/>
+  </FDT_data>
+  <FDT_data lcd1="40090" offset="294" direction="positive" lat="45.08621" lng="7.69368" period="5">
+    <speedflow flow="528.00" speed="25.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40091" offset="1034" direction="negative" lat="45.08685" lng="7.69273" period="5">
+    <speedflow flow="600.00" speed="23.36"/>
+  </FDT_data>
+  <FDT_data lcd1="40043" offset="114" direction="positive" lat="45.09101" lng="7.69280" period="5">
+    <speedflow flow="420.42" speed="18.45"/>
+  </FDT_data>
+  <FDT_data lcd1="40132" offset="128" direction="positive" lat="45.09322" lng="7.71509" period="5">
+    <speedflow flow="503.00" speed="23.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40213" offset="213" direction="negative" lat="45.09542" lng="7.71770" period="5">
+    <speedflow flow="708.00" speed="14.01"/>
+  </FDT_data>
+  <FDT_data lcd1="40262" offset="113" direction="positive" lat="45.09527" lng="7.71626" period="5">
+    <speedflow flow="729.94" speed="44.64"/>
+  </FDT_data>
+  <FDT_data lcd1="40212" offset="580" direction="positive" lat="45.09581" lng="7.71802" period="5">
+    <speedflow flow="386.51" speed="8.63"/>
+  </FDT_data>
+  <FDT_data lcd1="40263" offset="1471" direction="negative" lat="45.09564" lng="7.71522" period="5">
+    <speedflow flow="766.28" speed="35.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40262" offset="1482" direction="positive" lat="45.10188" lng="7.70243" period="5">
+    <speedflow flow="729.94" speed="40.44"/>
+  </FDT_data>
+  <FDT_data lcd1="40195" offset="95" direction="negative" lat="45.10431" lng="7.69593" period="5">
+    <speedflow flow="1140.00" speed="21.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40195" offset="49" direction="positive" lat="45.10326" lng="7.69501" period="5">
+    <speedflow flow="1382.78" speed="19.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40264" offset="69" direction="negative" lat="45.10331" lng="7.69614" period="5">
+    <speedflow flow="1376.33" speed="49.58"/>
+  </FDT_data>
+  <FDT_data lcd1="40195" offset="328" direction="negative" lat="45.10624" lng="7.69687" period="5">
+    <speedflow flow="1483.11" speed="24.68"/>
+  </FDT_data>
+  <FDT_data lcd1="40194" offset="1477" direction="positive" lat="45.10593" lng="7.69645" period="5">
+    <speedflow flow="756.22" speed="25.65"/>
+  </FDT_data>
+  <FDT_data lcd1="40295" offset="40" direction="negative" lat="45.10624" lng="7.69638" period="5">
+    <speedflow flow="919.26" speed="22.77"/>
+  </FDT_data>
+  <FDT_data lcd1="40041" offset="938" direction="positive" lat="45.10447" lng="7.70151" period="5">
+    <speedflow flow="1187.00" speed="51.11"/>
+  </FDT_data>
+  <FDT_data lcd1="40042" offset="308" direction="negative" lat="45.10476" lng="7.70208" period="5">
+    <speedflow flow="1665.20" speed="36.00"/>
+  </FDT_data>
+  <FDT_data lcd1="40043" offset="306" direction="negative" lat="45.09451" lng="7.69536" period="5">
+    <speedflow flow="876.00" speed="20.15"/>
+  </FDT_data>
+  <FDT_data lcd1="40042" offset="994" direction="positive" lat="45.09428" lng="7.69494" period="5">
+    <speedflow flow="291.14" speed="21.01"/>
+  </FDT_data>
+  <FDT_data lcd1="40195" offset="1490" direction="positive" lat="45.09052" lng="7.68898" period="5">
+    <speedflow flow="348.51" speed="20.34"/>
+  </FDT_data>
+  <FDT_data lcd1="40049" offset="247" direction="positive" lat="45.10478" lng="7.67316" period="5">
+    <speedflow flow="1342.18" speed="39.21"/>
+  </FDT_data>
+  <FDT_data lcd1="40050" offset="1267" direction="negative" lat="45.10490" lng="7.67269" period="5">
+    <speedflow flow="2345.28" speed="53.69"/>
+  </FDT_data>
+  <FDT_data lcd1="40049" offset="727" direction="positive" lat="45.10442" lng="7.67922" period="5">
+    <speedflow flow="1735.87" speed="32.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40050" offset="787" direction="negative" lat="45.10452" lng="7.67876" period="5">
+    <speedflow flow="1810.32" speed="22.33"/>
+  </FDT_data>
+  <FDT_data lcd1="40050" offset="601" direction="negative" lat="45.10444" lng="7.68113" period="5">
+    <speedflow flow="1869.45" speed="31.00"/>
+  </FDT_data>
+  <FDT_data lcd1="40049" offset="913" direction="positive" lat="45.10422" lng="7.68154" period="5">
+    <speedflow flow="1735.63" speed="32.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40050" offset="333" direction="negative" lat="45.10419" lng="7.68452" period="5">
+    <speedflow flow="2187.69" speed="25.89"/>
+  </FDT_data>
+  <FDT_data lcd1="40196" offset="1435" direction="negative" lat="45.10135" lng="7.69437" period="5">
+    <speedflow flow="408.00" speed="20.71"/>
+  </FDT_data>
+  <FDT_data lcd1="40043" offset="702" direction="negative" lat="45.09777" lng="7.69747" period="5">
+    <speedflow flow="896.71" speed="19.05"/>
+  </FDT_data>
+  <FDT_data lcd1="40042" offset="627" direction="positive" lat="45.09727" lng="7.69691" period="5">
+    <speedflow flow="478.99" speed="19.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40304" offset="1033" direction="negative" lat="45.11134" lng="7.65672" period="5">
+    <speedflow flow="458.20" speed="42.71"/>
+  </FDT_data>
+  <FDT_data lcd1="40048" offset="278" direction="positive" lat="45.10529" lng="7.66107" period="5">
+    <speedflow flow="324.00" speed="32.81"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="36" direction="negative" lat="45.10336" lng="7.66201" period="5">
+    <speedflow flow="756.00" speed="30.12"/>
+  </FDT_data>
+  <FDT_data lcd1="40107" offset="236" direction="negative" lat="45.06240" lng="7.65548" period="5">
+    <speedflow flow="1067.00" speed="17.33"/>
+  </FDT_data>
+  <FDT_data lcd1="40106" offset="662" direction="positive" lat="45.06198" lng="7.65636" period="5">
+    <speedflow flow="756.00" speed="18.47"/>
+  </FDT_data>
+  <FDT_data lcd1="40101" offset="891" direction="negative" lat="45.04631" lng="7.64581" period="5">
+    <speedflow flow="32.95" speed="15.00"/>
+  </FDT_data>
+  <FDT_data lcd1="40100" offset="307" direction="positive" lat="45.04721" lng="7.64741" period="5">
+    <speedflow flow="0.20" speed="25.18"/>
+  </FDT_data>
+  <FDT_data lcd1="40151" offset="292" direction="positive" lat="45.04424" lng="7.64742" period="5">
+    <speedflow flow="468.00" speed="15.73"/>
+  </FDT_data>
+  <FDT_data lcd1="40152" offset="72" direction="negative" lat="45.04401" lng="7.64896" period="5">
+    <speedflow flow="264.00" speed="15.69"/>
+  </FDT_data>
+  <FDT_data lcd1="39979" offset="45" direction="negative" lat="45.04349" lng="7.64916" period="5">
+    <speedflow flow="581.89" speed="29.26"/>
+  </FDT_data>
+  <FDT_data lcd1="40053" offset="39" direction="positive" lat="45.04404" lng="7.64968" period="5">
+    <speedflow flow="796.52" speed="34.34"/>
+  </FDT_data>
+  <FDT_data lcd1="39978" offset="818" direction="positive" lat="45.04129" lng="7.64773" period="5">
+    <speedflow flow="609.50" speed="31.71"/>
+  </FDT_data>
+  <FDT_data lcd1="39979" offset="339" direction="negative" lat="45.04104" lng="7.64748" period="5">
+    <speedflow flow="729.45" speed="31.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40037" offset="17" direction="positive" lat="45.03259" lng="7.64663" period="5">
+    <speedflow flow="1056.00" speed="34.58"/>
+  </FDT_data>
+  <FDT_data lcd1="40185" offset="46" direction="negative" lat="45.03247" lng="7.64607" period="5">
+    <speedflow flow="648.00" speed="33.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40003" offset="50" direction="negative" lat="45.03300" lng="7.64608" period="5">
+    <speedflow flow="1142.97" speed="35.18"/>
+  </FDT_data>
+  <FDT_data lcd1="40185" offset="47" direction="positive" lat="45.03301" lng="7.64684" period="5">
+    <speedflow flow="566.10" speed="25.30"/>
+  </FDT_data>
+  <FDT_data lcd1="40038" offset="58" direction="negative" lat="45.03133" lng="7.65140" period="5">
+    <speedflow flow="1142.78" speed="34.57"/>
+  </FDT_data>
+  <FDT_data lcd1="40244" offset="24" direction="negative" lat="45.03096" lng="7.65214" period="5">
+    <speedflow flow="1080.00" speed="51.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40030" offset="91" direction="positive" lat="45.03991" lng="7.65317" period="5">
+    <speedflow flow="372.80" speed="22.42"/>
+  </FDT_data>
+  <FDT_data lcd1="40186" offset="73" direction="positive" lat="45.03955" lng="7.65404" period="5">
+    <speedflow flow="648.00" speed="22.88"/>
+  </FDT_data>
+  <FDT_data lcd1="40186" offset="89" direction="negative" lat="45.03848" lng="7.65282" period="5">
+    <speedflow flow="700.92" speed="30.72"/>
+  </FDT_data>
+  <FDT_data lcd1="40031" offset="846" direction="negative" lat="45.04171" lng="7.65432" period="5">
+    <speedflow flow="840.00" speed="22.26"/>
+  </FDT_data>
+  <FDT_data lcd1="40030" offset="370" direction="positive" lat="45.04219" lng="7.65496" period="5">
+    <speedflow flow="503.00" speed="31.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40187" offset="797" direction="negative" lat="45.04119" lng="7.65583" period="5">
+    <speedflow flow="348.00" speed="28.14"/>
+  </FDT_data>
+  <FDT_data lcd1="40186" offset="370" direction="positive" lat="45.04170" lng="7.65634" period="5">
+    <speedflow flow="570.49" speed="30.82"/>
+  </FDT_data>
+  <FDT_data lcd1="40186" offset="869" direction="positive" lat="45.04513" lng="7.66042" period="5">
+    <speedflow flow="395.00" speed="20.83"/>
+  </FDT_data>
+  <FDT_data lcd1="40187" offset="258" direction="negative" lat="45.04496" lng="7.66010" period="5">
+    <speedflow flow="288.00" speed="32.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40187" offset="38" direction="negative" lat="45.04644" lng="7.66178" period="5">
+    <speedflow flow="511.07" speed="24.26"/>
+  </FDT_data>
+  <FDT_data lcd1="39992" offset="19" direction="negative" lat="45.04652" lng="7.66224" period="5">
+    <speedflow flow="876.00" speed="16.89"/>
+  </FDT_data>
+  <FDT_data lcd1="40177" offset="49" direction="positive" lat="45.04693" lng="7.66252" period="5">
+    <speedflow flow="215.00" speed="25.93"/>
+  </FDT_data>
+  <FDT_data lcd1="40031" offset="86" direction="negative" lat="45.04800" lng="7.65852" period="5">
+    <speedflow flow="768.00" speed="30.38"/>
+  </FDT_data>
+  <FDT_data lcd1="40053" offset="797" direction="positive" lat="45.05013" lng="7.65392" period="5">
+    <speedflow flow="611.00" speed="16.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40054" offset="223" direction="negative" lat="45.04977" lng="7.65358" period="5">
+    <speedflow flow="636.00" speed="20.20"/>
+  </FDT_data>
+  <FDT_data lcd1="40100" offset="919" direction="positive" lat="45.05096" lng="7.65313" period="5">
+    <speedflow flow="244.99" speed="17.85"/>
+  </FDT_data>
+  <FDT_data lcd1="40101" offset="19" direction="negative" lat="45.05149" lng="7.65361" period="5">
+    <speedflow flow="261.46" speed="16.26"/>
+  </FDT_data>
+  <FDT_data lcd1="40054" offset="34" direction="negative" lat="45.05123" lng="7.65464" period="5">
+    <speedflow flow="480.00" speed="19.49"/>
+  </FDT_data>
+  <FDT_data lcd1="40142" offset="47" direction="positive" lat="45.05289" lng="7.65646" period="5">
+    <speedflow flow="371.00" speed="21.38"/>
+  </FDT_data>
+  <FDT_data lcd1="40010" offset="30" direction="positive" lat="45.05329" lng="7.65625" period="5">
+    <speedflow flow="227.00" speed="16.80"/>
+  </FDT_data>
+  <FDT_data lcd1="40011" offset="496" direction="negative" lat="45.05633" lng="7.65809" period="5">
+    <speedflow flow="493.02" speed="24.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40033" offset="500" direction="negative" lat="45.05447" lng="7.66315" period="5">
+    <speedflow flow="395.00" speed="24.26"/>
+  </FDT_data>
+  <FDT_data lcd1="40032" offset="352" direction="positive" lat="45.05468" lng="7.66345" period="5">
+    <speedflow flow="516.00" speed="22.25"/>
+  </FDT_data>
+  <FDT_data lcd1="40116" offset="548" direction="negative" lat="45.05328" lng="7.66510" period="5">
+    <speedflow flow="687.33" speed="23.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40115" offset="310" direction="positive" lat="45.05355" lng="7.66559" period="5">
+    <speedflow flow="540.00" speed="29.22"/>
+  </FDT_data>
+  <FDT_data lcd1="40032" offset="25" direction="positive" lat="45.05204" lng="7.66163" period="5">
+    <speedflow flow="540.00" speed="23.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40032" offset="31" direction="negative" lat="45.05166" lng="7.66122" period="5">
+    <speedflow flow="395.00" speed="17.79"/>
+  </FDT_data>
+  <FDT_data lcd1="40144" offset="27" direction="negative" lat="45.05169" lng="7.66174" period="5">
+    <speedflow flow="491.00" speed="14.32"/>
+  </FDT_data>
+  <FDT_data lcd1="40114" offset="366" direction="positive" lat="45.05068" lng="7.66228" period="5">
+    <speedflow flow="346.87" speed="23.67"/>
+  </FDT_data>
+  <FDT_data lcd1="40115" offset="44" direction="positive" lat="45.05170" lng="7.66345" period="5">
+    <speedflow flow="384.00" speed="24.11"/>
+  </FDT_data>
+  <FDT_data lcd1="40115" offset="40" direction="negative" lat="45.05124" lng="7.66283" period="5">
+    <speedflow flow="551.00" speed="22.18"/>
+  </FDT_data>
+  <FDT_data lcd1="40144" offset="172" direction="negative" lat="45.05119" lng="7.66345" period="5">
+    <speedflow flow="731.00" speed="20.07"/>
+  </FDT_data>
+  <FDT_data lcd1="40143" offset="84" direction="positive" lat="45.05041" lng="7.66517" period="5">
+    <speedflow flow="320.08" speed="24.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40008" offset="38" direction="negative" lat="45.04963" lng="7.66603" period="5">
+    <speedflow flow="360.00" speed="23.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40178" offset="5" direction="positive" lat="45.05004" lng="7.66592" period="5">
+    <speedflow flow="449.71" speed="19.70"/>
+  </FDT_data>
+  <FDT_data lcd1="40178" offset="45" direction="negative" lat="45.04981" lng="7.66549" period="5">
+    <speedflow flow="371.00" speed="18.16"/>
+  </FDT_data>
+  <FDT_data lcd1="40033" offset="261" direction="negative" lat="45.05630" lng="7.66447" period="5">
+    <speedflow flow="865.70" speed="20.02"/>
+  </FDT_data>
+  <FDT_data lcd1="40032" offset="576" direction="positive" lat="45.05648" lng="7.66469" period="5">
+    <speedflow flow="540.45" speed="21.98"/>
+  </FDT_data>
+  <FDT_data lcd1="40011" offset="253" direction="negative" lat="45.05818" lng="7.65966" period="5">
+    <speedflow flow="563.00" speed="18.77"/>
+  </FDT_data>
+  <FDT_data lcd1="40010" offset="653" direction="positive" lat="45.05843" lng="7.65986" period="5">
+    <speedflow flow="518.11" speed="21.90"/>
+  </FDT_data>
+  <FDT_data lcd1="40015" offset="70" direction="negative" lat="45.06044" lng="7.66067" period="5">
+    <speedflow flow="940.99" speed="20.40"/>
+  </FDT_data>
+  <FDT_data lcd1="40015" offset="28" direction="positive" lat="45.05994" lng="7.66153" period="5">
+    <speedflow flow="679.00" speed="22.26"/>
+  </FDT_data>
+  <FDT_data lcd1="40033" offset="48" direction="positive" lat="45.05873" lng="7.66628" period="5">
+    <speedflow flow="472.96" speed="31.68"/>
+  </FDT_data>
+  <FDT_data lcd1="40163" offset="40" direction="negative" lat="45.05688" lng="7.66915" period="5">
+    <speedflow flow="478.76" speed="17.59"/>
+  </FDT_data>
+  <FDT_data lcd1="40116" offset="47" direction="positive" lat="45.05768" lng="7.66896" period="5">
+    <speedflow flow="636.17" speed="25.78"/>
+  </FDT_data>
+  <FDT_data lcd1="40116" offset="60" direction="negative" lat="45.05688" lng="7.66841" period="5">
+    <speedflow flow="762.68" speed="22.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40162" offset="13" direction="negative" lat="45.05496" lng="7.67166" period="5">
+    <speedflow flow="1053.15" speed="7.87"/>
+  </FDT_data>
+  <FDT_data lcd1="40300" offset="71" direction="positive" lat="45.05561" lng="7.67201" period="5">
+    <speedflow flow="444.85" speed="17.30"/>
+  </FDT_data>
+  <FDT_data lcd1="40162" offset="52" direction="positive" lat="45.05538" lng="7.67115" period="5">
+    <speedflow flow="840.00" speed="14.04"/>
+  </FDT_data>
+  <FDT_data lcd1="40179" offset="39" direction="negative" lat="45.05501" lng="7.67117" period="5">
+    <speedflow flow="144.00" speed="25.72"/>
+  </FDT_data>
+  <FDT_data lcd1="40007" offset="624" direction="positive" lat="45.04928" lng="7.66722" period="5">
+    <speedflow flow="577.58" speed="11.66"/>
+  </FDT_data>
+  <FDT_data lcd1="40007" offset="135" direction="negative" lat="45.04713" lng="7.67451" period="5">
+    <speedflow flow="520.22" speed="12.77"/>
+  </FDT_data>
+  <FDT_data lcd1="39991" offset="739" direction="positive" lat="45.04589" lng="7.66338" period="5">
+    <speedflow flow="900.00" speed="19.31"/>
+  </FDT_data>
+  <FDT_data lcd1="40279" offset="487" direction="negative" lat="45.03833" lng="7.66940" period="5">
+    <speedflow flow="461.56" speed="16.56"/>
+  </FDT_data>
+  <FDT_data lcd1="40279" offset="637" direction="negative" lat="45.03719" lng="7.66896" period="5">
+    <speedflow flow="400.54" speed="14.60"/>
+  </FDT_data>
+  <FDT_data lcd1="40064" offset="319" direction="negative" lat="45.01774" lng="7.66565" period="5">
+    <speedflow flow="1150.02" speed="31.51"/>
+  </FDT_data>
+  <FDT_data lcd1="40071" offset="1847" direction="positive" lat="45.03565" lng="7.68069" period="5">
+    <speedflow flow="437.57" speed="29.37"/>
+  </FDT_data>
+  <FDT_data lcd1="40006" offset="293" direction="positive" lat="45.04707" lng="7.67518" period="5">
+    <speedflow flow="528.00" speed="13.34"/>
+  </FDT_data>
+  <FDT_data lcd1="40007" offset="220" direction="negative" lat="45.04691" lng="7.67581" period="5">
+    <speedflow flow="432.67" speed="7.49"/>
+  </FDT_data>
+  <FDT_data lcd1="40006" offset="54" direction="positive" lat="45.04652" lng="7.67813" period="5">
+    <speedflow flow="395.36" speed="14.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40068" offset="520" direction="positive" lat="45.05062" lng="7.68162" period="5">
+    <speedflow flow="1237.36" speed="15.58"/>
+  </FDT_data>
+  <FDT_data lcd1="40069" offset="1159" direction="negative" lat="45.05027" lng="7.68125" period="5">
+    <speedflow flow="1444.08" speed="16.52"/>
+  </FDT_data>
+  <FDT_data lcd1="40069" offset="939" direction="negative" lat="45.05209" lng="7.68245" period="5">
+    <speedflow flow="1343.00" speed="14.68"/>
+  </FDT_data>
+  <FDT_data lcd1="40068" offset="730" direction="positive" lat="45.05231" lng="7.68279" period="5">
+    <speedflow flow="1373.60" speed="14.89"/>
+  </FDT_data>
+  <FDT_data lcd1="40069" offset="643" direction="negative" lat="45.05462" lng="7.68410" period="5">
+    <speedflow flow="1320.00" speed="14.75"/>
+  </FDT_data>
+  <FDT_data lcd1="40068" offset="1057" direction="positive" lat="45.05495" lng="7.68463" period="5">
+    <speedflow flow="1343.08" speed="18.04"/>
+  </FDT_data>
+  <FDT_data lcd1="40073" offset="306" direction="positive" lat="45.04776" lng="7.68724" period="5">
+    <speedflow flow="1143.18" speed="29.64"/>
+  </FDT_data>
+  <FDT_data lcd1="40074" offset="1176" direction="negative" lat="45.04777" lng="7.68701" period="5">
+    <speedflow flow="1762.19" speed="19.37"/>
+  </FDT_data>
+  <FDT_data lcd1="40034" offset="309" direction="negative" lat="45.06311" lng="7.66916" period="5">
+    <speedflow flow="1151.60" speed="29.44"/>
+  </FDT_data>
+  <FDT_data lcd1="40033" offset="629" direction="positive" lat="45.06344" lng="7.66952" period="5">
+    <speedflow flow="811.38" speed="29.73"/>
+  </FDT_data>
+  <FDT_data lcd1="40116" offset="789" direction="positive" lat="45.06362" lng="7.67337" period="5">
+    <speedflow flow="522.97" speed="20.08"/>
+  </FDT_data>
+  <FDT_data lcd1="40300" offset="754" direction="positive" lat="45.06104" lng="7.67610" period="5">
+    <speedflow flow="563.00" speed="13.34"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="138" direction="positive" lat="45.06174" lng="7.68165" period="5">
+    <speedflow flow="461.05" speed="16.55"/>
+  </FDT_data>
+  <FDT_data lcd1="40209" offset="604" direction="negative" lat="45.06190" lng="7.68130" period="5">
+    <speedflow flow="780.00" speed="7.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="416" direction="positive" lat="45.06051" lng="7.68493" period="5">
+    <speedflow flow="458.41" speed="13.87"/>
+  </FDT_data>
+  <FDT_data lcd1="40209" offset="313" direction="negative" lat="45.06071" lng="7.68461" period="5">
+    <speedflow flow="743.00" speed="13.48"/>
+  </FDT_data>
+  <FDT_data lcd1="40209" offset="180" direction="negative" lat="45.06017" lng="7.68611" period="5">
+    <speedflow flow="576.00" speed="13.05"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="534" direction="positive" lat="45.06002" lng="7.68636" period="5">
+    <speedflow flow="306.94" speed="9.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40209" offset="54" direction="negative" lat="45.05965" lng="7.68759" period="5">
+    <speedflow flow="455.00" speed="18.07"/>
+  </FDT_data>
+  <FDT_data lcd1="40069" offset="52" direction="negative" lat="45.05934" lng="7.68757" period="5">
+    <speedflow flow="1343.00" speed="16.73"/>
+  </FDT_data>
+  <FDT_data lcd1="40209" offset="14" direction="positive" lat="45.05937" lng="7.68823" period="5">
+    <speedflow flow="1320.00" speed="11.35"/>
+  </FDT_data>
+  <FDT_data lcd1="40231" offset="29" direction="negative" lat="45.05832" lng="7.69105" period="5">
+    <speedflow flow="1081.65" speed="12.22"/>
+  </FDT_data>
+  <FDT_data lcd1="40210" offset="73" direction="negative" lat="45.05876" lng="7.69013" period="5">
+    <speedflow flow="1334.34" speed="17.37"/>
+  </FDT_data>
+  <FDT_data lcd1="40230" offset="63" direction="positive" lat="45.05783" lng="7.69271" period="5">
+    <speedflow flow="720.00" speed="17.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40279" offset="1680" direction="negative" lat="45.02882" lng="7.66589" period="5">
+    <speedflow flow="572.22" speed="13.15"/>
+  </FDT_data>
+  <FDT_data lcd1="40190" offset="439" direction="negative" lat="45.01903" lng="7.66918" period="5">
+    <speedflow flow="2642.78" speed="20.20"/>
+  </FDT_data>
+  <FDT_data lcd1="40182" offset="1007" direction="positive" lat="45.02030" lng="7.63267" period="5">
+    <speedflow flow="944.27" speed="32.38"/>
+  </FDT_data>
+  <FDT_data lcd1="40183" offset="503" direction="negative" lat="45.01952" lng="7.63128" period="5">
+    <speedflow flow="932.31" speed="39.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40183" offset="118" direction="negative" lat="45.02273" lng="7.63414" period="5">
+    <speedflow flow="1271.78" speed="32.66"/>
+  </FDT_data>
+  <FDT_data lcd1="40312" offset="64" direction="negative" lat="45.02240" lng="7.63587" period="5">
+    <speedflow flow="648.00" speed="28.40"/>
+  </FDT_data>
+  <FDT_data lcd1="40183" offset="42" direction="positive" lat="45.02298" lng="7.63569" period="5">
+    <speedflow flow="480.00" speed="25.82"/>
+  </FDT_data>
+  <FDT_data lcd1="39976" offset="54" direction="positive" lat="45.02330" lng="7.63528" period="5">
+    <speedflow flow="468.00" speed="35.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40155" offset="120" direction="negative" lat="45.02328" lng="7.63425" period="5">
+    <speedflow flow="350.43" speed="29.20"/>
+  </FDT_data>
+  <FDT_data lcd1="40184" offset="46" direction="negative" lat="45.02577" lng="7.63857" period="5">
+    <speedflow flow="679.91" speed="29.75"/>
+  </FDT_data>
+  <FDT_data lcd1="40184" offset="34" direction="positive" lat="45.02621" lng="7.63923" period="5">
+    <speedflow flow="550.36" speed="28.32"/>
+  </FDT_data>
+  <FDT_data lcd1="39977" offset="542" direction="negative" lat="45.02648" lng="7.63665" period="5">
+    <speedflow flow="1051.24" speed="41.83"/>
+  </FDT_data>
+  <FDT_data lcd1="39976" offset="535" direction="positive" lat="45.02718" lng="7.63783" period="5">
+    <speedflow flow="1061.08" speed="50.04"/>
+  </FDT_data>
+  <FDT_data lcd1="40311" offset="1030" direction="positive" lat="45.02202" lng="7.63777" period="5">
+    <speedflow flow="588.00" speed="29.80"/>
+  </FDT_data>
+  <FDT_data lcd1="40184" offset="534" direction="positive" lat="45.02971" lng="7.64316" period="5">
+    <speedflow flow="316.49" speed="32.96"/>
+  </FDT_data>
+  <FDT_data lcd1="39977" offset="32" direction="positive" lat="45.03073" lng="7.64023" period="5">
+    <speedflow flow="703.64" speed="34.20"/>
+  </FDT_data>
+  <FDT_data lcd1="39977" offset="65" direction="negative" lat="45.03036" lng="7.63944" period="5">
+    <speedflow flow="1216.60" speed="35.44"/>
+  </FDT_data>
+  <FDT_data lcd1="40097" offset="186" direction="positive" lat="45.03639" lng="7.62664" period="5">
+    <speedflow flow="1638.21" speed="30.31"/>
+  </FDT_data>
+  <FDT_data lcd1="40001" offset="112" direction="positive" lat="45.03939" lng="7.63496" period="5">
+    <speedflow flow="756.00" speed="38.84"/>
+  </FDT_data>
+  <FDT_data lcd1="40099" offset="96" direction="negative" lat="45.03969" lng="7.63309" period="5">
+    <speedflow flow="1176.00" speed="27.30"/>
+  </FDT_data>
+  <FDT_data lcd1="40157" offset="94" direction="positive" lat="45.04092" lng="7.63412" period="5">
+    <speedflow flow="1116.00" speed="34.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40099" offset="101" direction="positive" lat="45.04047" lng="7.63490" period="5">
+    <speedflow flow="404.26" speed="20.03"/>
+  </FDT_data>
+  <FDT_data lcd1="40002" offset="31" direction="positive" lat="45.03444" lng="7.64330" period="5">
+    <speedflow flow="960.00" speed="30.69"/>
+  </FDT_data>
+  <FDT_data lcd1="40002" offset="56" direction="negative" lat="45.03511" lng="7.64272" period="5">
+    <speedflow flow="1462.63" speed="26.78"/>
+  </FDT_data>
+  <FDT_data lcd1="39978" offset="47" direction="negative" lat="45.03451" lng="7.64266" period="5">
+    <speedflow flow="544.74" speed="44.45"/>
+  </FDT_data>
+  <FDT_data lcd1="39978" offset="37" direction="positive" lat="45.03503" lng="7.64325" period="5">
+    <speedflow flow="588.16" speed="30.42"/>
+  </FDT_data>
+  <FDT_data lcd1="40001" offset="713" direction="positive" lat="45.03584" lng="7.64088" period="5">
+    <speedflow flow="1157.56" speed="25.64"/>
+  </FDT_data>
+  <FDT_data lcd1="40002" offset="434" direction="negative" lat="45.03728" lng="7.63902" period="5">
+    <speedflow flow="1403.92" speed="37.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40099" offset="904" direction="positive" lat="45.04457" lng="7.64302" period="5">
+    <speedflow flow="175.24" speed="18.03"/>
+  </FDT_data>
+  <FDT_data lcd1="40100" offset="480" direction="negative" lat="45.04292" lng="7.63965" period="5">
+    <speedflow flow="248.93" speed="22.04"/>
+  </FDT_data>
+  <FDT_data lcd1="40151" offset="850" direction="negative" lat="45.04852" lng="7.63588" period="5">
+    <speedflow flow="725.49" speed="22.93"/>
+  </FDT_data>
+  <FDT_data lcd1="40150" offset="55" direction="positive" lat="45.04856" lng="7.63499" period="5">
+    <speedflow flow="749.92" speed="26.12"/>
+  </FDT_data>
+  <FDT_data lcd1="40150" offset="95" direction="negative" lat="45.04927" lng="7.63367" period="5">
+    <speedflow flow="683.00" speed="19.84"/>
+  </FDT_data>
+  <FDT_data lcd1="40158" offset="37" direction="positive" lat="45.04918" lng="7.63462" period="5">
+    <speedflow flow="1212.00" speed="30.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40158" offset="43" direction="negative" lat="45.04849" lng="7.63423" period="5">
+    <speedflow flow="1230.12" speed="36.87"/>
+  </FDT_data>
+  <FDT_data lcd1="40149" offset="260" direction="positive" lat="45.04951" lng="7.63217" period="5">
+    <speedflow flow="900.00" speed="20.84"/>
+  </FDT_data>
+  <FDT_data lcd1="39983" offset="433" direction="negative" lat="45.05139" lng="7.61101" period="5">
+    <speedflow flow="751.83" speed="44.47"/>
+  </FDT_data>
+  <FDT_data lcd1="40168" offset="22" direction="positive" lat="45.05555" lng="7.63489" period="5">
+    <speedflow flow="1317.17" speed="24.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40159" offset="38" direction="negative" lat="45.05514" lng="7.63456" period="5">
+    <speedflow flow="1270.86" speed="30.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40169" offset="192" direction="negative" lat="45.05614" lng="7.63476" period="5">
+    <speedflow flow="1156.68" speed="25.63"/>
+  </FDT_data>
+  <FDT_data lcd1="40168" offset="177" direction="positive" lat="45.05690" lng="7.63494" period="5">
+    <speedflow flow="1271.01" speed="24.06"/>
+  </FDT_data>
+  <FDT_data lcd1="40141" offset="1083" direction="negative" lat="45.05776" lng="7.63645" period="5">
+    <speedflow flow="453.89" speed="17.64"/>
+  </FDT_data>
+  <FDT_data lcd1="40169" offset="41" direction="negative" lat="45.05768" lng="7.63478" period="5">
+    <speedflow flow="1156.68" speed="26.63"/>
+  </FDT_data>
+  <FDT_data lcd1="40140" offset="34" direction="positive" lat="45.05773" lng="7.63539" period="5">
+    <speedflow flow="255.29" speed="16.85"/>
+  </FDT_data>
+  <FDT_data lcd1="40169" offset="38" direction="positive" lat="45.05830" lng="7.63501" period="5">
+    <speedflow flow="1643.80" speed="31.30"/>
+  </FDT_data>
+  <FDT_data lcd1="40169" offset="457" direction="positive" lat="45.06202" lng="7.63553" period="5">
+    <speedflow flow="1510.23" speed="31.65"/>
+  </FDT_data>
+  <FDT_data lcd1="40170" offset="1598" direction="negative" lat="45.06171" lng="7.63516" period="5">
+    <speedflow flow="1409.43" speed="35.12"/>
+  </FDT_data>
+  <FDT_data lcd1="40209" offset="413" direction="negative" lat="45.06107" lng="7.68356" period="5">
+    <speedflow flow="353.16" speed="13.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="332" direction="positive" lat="45.06092" lng="7.68382" period="5">
+    <speedflow flow="418.07" speed="14.43"/>
+  </FDT_data>
+  <FDT_data lcd1="40147" offset="1058" direction="negative" lat="45.06679" lng="7.69739" period="5">
+    <speedflow flow="408.00" speed="12.51"/>
+  </FDT_data>
+  <FDT_data lcd1="40146" offset="211" direction="positive" lat="45.06709" lng="7.69730" period="5">
+    <speedflow flow="251.00" speed="17.88"/>
+  </FDT_data>
+  <FDT_data lcd1="40129" offset="596" direction="negative" lat="45.07291" lng="7.69535" period="5">
+    <speedflow flow="526.78" speed="19.61"/>
+  </FDT_data>
+  <FDT_data lcd1="40128" offset="511" direction="positive" lat="45.07270" lng="7.69565" period="5">
+    <speedflow flow="526.31" speed="27.97"/>
+  </FDT_data>
+  <FDT_data lcd1="40202" offset="252" direction="positive" lat="45.06927" lng="7.66773" period="5">
+    <speedflow flow="196.77" speed="14.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40203" offset="532" direction="negative" lat="45.06868" lng="7.66712" period="5">
+    <speedflow flow="559.17" speed="27.59"/>
+  </FDT_data>
+  <FDT_data lcd1="40034" offset="81" direction="positive" lat="45.06625" lng="7.67133" period="5">
+    <speedflow flow="120.00" speed="18.00"/>
+  </FDT_data>
+  <FDT_data lcd1="40035" offset="537" direction="negative" lat="45.06706" lng="7.67173" period="5">
+    <speedflow flow="828.92" speed="18.18"/>
+  </FDT_data>
+  <FDT_data lcd1="40121" offset="414" direction="positive" lat="45.09581" lng="7.62679" period="5">
+    <speedflow flow="1229.01" speed="60.22"/>
+  </FDT_data>
+  <FDT_data lcd1="40122" offset="250" direction="negative" lat="45.09460" lng="7.63014" period="5">
+    <speedflow flow="1632.94" speed="54.21"/>
+  </FDT_data>
+  <FDT_data lcd1="40122" offset="1542" direction="positive" lat="45.08876" lng="7.64708" period="5">
+    <speedflow flow="1017.93" speed="48.67"/>
+  </FDT_data>
+  <FDT_data lcd1="40050" offset="85" direction="negative" lat="45.10398" lng="7.68738" period="5">
+    <speedflow flow="2520.79" speed="20.32"/>
+  </FDT_data>
+  <FDT_data lcd1="39983" offset="694" direction="positive" lat="45.05070" lng="7.62250" period="5">
+    <speedflow flow="648.50" speed="31.01"/>
+  </FDT_data>
+  <FDT_data lcd1="40162" offset="129" direction="positive" lat="45.05592" lng="7.67050" period="5">
+    <speedflow flow="816.00" speed="14.09"/>
+  </FDT_data>
+  <FDT_data lcd1="40163" offset="239" direction="negative" lat="45.05556" lng="7.67072" period="5">
+    <speedflow flow="768.00" speed="13.74"/>
+  </FDT_data>
+  <FDT_data lcd1="40178" offset="455" direction="positive" lat="45.05323" lng="7.66941" period="5">
+    <speedflow flow="623.00" speed="21.32"/>
+  </FDT_data>
+  <FDT_data lcd1="40179" offset="320" direction="negative" lat="45.05299" lng="7.66893" period="5">
+    <speedflow flow="96.00" speed="23.06"/>
+  </FDT_data>
+  <FDT_data lcd1="40179" offset="502" direction="negative" lat="45.05189" lng="7.66753" period="5">
+    <speedflow flow="136.22" speed="21.58"/>
+  </FDT_data>
+  <FDT_data lcd1="40178" offset="300" direction="positive" lat="45.05216" lng="7.66814" period="5">
+    <speedflow flow="623.00" speed="21.85"/>
+  </FDT_data>
+  <FDT_data lcd1="40158" offset="436" direction="positive" lat="45.05277" lng="7.63471" period="5">
+    <speedflow flow="1176.95" speed="33.42"/>
+  </FDT_data>
+  <FDT_data lcd1="40159" offset="345" direction="negative" lat="45.05249" lng="7.63447" period="5">
+    <speedflow flow="1176.00" speed="27.43"/>
+  </FDT_data>
+  <FDT_data lcd1="39977" offset="423" direction="positive" lat="45.03193" lng="7.64111" period="5">
+    <speedflow flow="703.64" speed="30.64"/>
+  </FDT_data>
+  <FDT_data lcd1="39978" offset="401" direction="positive" lat="45.03794" lng="7.64532" period="5">
+    <speedflow flow="588.16" speed="30.34"/>
+  </FDT_data>
+  <FDT_data lcd1="39979" offset="774" direction="negative" lat="45.03767" lng="7.64492" period="5">
+    <speedflow flow="729.45" speed="28.16"/>
+  </FDT_data>
+  <FDT_data lcd1="40185" offset="395" direction="positive" lat="45.03545" lng="7.64966" period="5">
+    <speedflow flow="731.00" speed="21.15"/>
+  </FDT_data>
+  <FDT_data lcd1="40186" offset="555" direction="negative" lat="45.03532" lng="7.64920" period="5">
+    <speedflow flow="655.52" speed="23.37"/>
+  </FDT_data>
+  <FDT_data lcd1="40185" offset="634" direction="positive" lat="45.03712" lng="7.65156" period="5">
+    <speedflow flow="544.64" speed="35.14"/>
+  </FDT_data>
+  <FDT_data lcd1="40186" offset="337" direction="negative" lat="45.03689" lng="7.65090" period="5">
+    <speedflow flow="700.92" speed="23.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40031" offset="705" direction="negative" lat="45.04273" lng="7.65507" period="5">
+    <speedflow flow="912.85" speed="28.63"/>
+  </FDT_data>
+  <FDT_data lcd1="40030" offset="924" direction="positive" lat="45.04669" lng="7.65802" period="5">
+    <speedflow flow="636.00" speed="19.55"/>
+  </FDT_data>
+  <FDT_data lcd1="40034" offset="622" direction="negative" lat="45.06065" lng="7.66738" period="5">
+    <speedflow flow="1151.60" speed="24.32"/>
+  </FDT_data>
+  <FDT_data lcd1="40033" offset="309" direction="positive" lat="45.06084" lng="7.66774" period="5">
+    <speedflow flow="472.96" speed="30.42"/>
+  </FDT_data>
+  <FDT_data lcd1="40117" offset="622" direction="negative" lat="45.05960" lng="7.67039" period="5">
+    <speedflow flow="206.29" speed="24.69"/>
+  </FDT_data>
+  <FDT_data lcd1="40116" offset="314" direction="positive" lat="45.05977" lng="7.67062" period="5">
+    <speedflow flow="636.00" speed="21.06"/>
+  </FDT_data>
+  <FDT_data lcd1="40069" offset="399" direction="negative" lat="45.05663" lng="7.68556" period="5">
+    <speedflow flow="1307.00" speed="13.80"/>
+  </FDT_data>
+  <FDT_data lcd1="40068" offset="1285" direction="positive" lat="45.05674" lng="7.68598" period="5">
+    <speedflow flow="1415.29" speed="16.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40253" offset="511" direction="positive" lat="45.10360" lng="7.72598" period="5">
+    <speedflow flow="705.33" speed="12.42"/>
+  </FDT_data>
+  <FDT_data lcd1="39987" offset="391" direction="positive" lat="45.07138" lng="7.70266" period="5">
+    <speedflow flow="828.00" speed="12.86"/>
+  </FDT_data>
+  <FDT_data lcd1="39988" offset="165" direction="negative" lat="45.07134" lng="7.70358" period="5">
+    <speedflow flow="167.00" speed="15.98"/>
+  </FDT_data>
+  <FDT_data lcd1="40128" offset="828" direction="positive" lat="45.07150" lng="7.69931" period="5">
+    <speedflow flow="444.00" speed="23.93"/>
+  </FDT_data>
+  <FDT_data lcd1="40129" offset="296" direction="negative" lat="45.07174" lng="7.69882" period="5">
+    <speedflow flow="348.00" speed="27.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40129" offset="845" direction="negative" lat="45.07385" lng="7.69246" period="5">
+    <speedflow flow="476.11" speed="24.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40128" offset="258" direction="positive" lat="45.07368" lng="7.69276" period="5">
+    <speedflow flow="378.66" speed="17.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40092" offset="427" direction="negative" lat="45.07875" lng="7.70133" period="5">
+    <speedflow flow="1135.45" speed="16.02"/>
+  </FDT_data>
+  <FDT_data lcd1="35819" offset="1790" direction="negative" lat="45.13812" lng="7.65605" period="5">
+    <speedflow flow="639.62" speed="43.56"/>
+  </FDT_data>
+  <FDT_data lcd1="39999" offset="856" direction="negative" lat="45.06685" lng="7.70785" period="5">
+    <speedflow flow="706.59" speed="17.52"/>
+  </FDT_data>
+  <FDT_data lcd1="40106" offset="662" direction="negative" lat="45.06772" lng="7.64192" period="5">
+    <speedflow flow="944.61" speed="23.32"/>
+  </FDT_data>
+  <FDT_data lcd1="40105" offset="348" direction="positive" lat="45.06729" lng="7.64239" period="5">
+    <speedflow flow="993.86" speed="15.84"/>
+  </FDT_data>
+  <FDT_data lcd1="40056" offset="921" direction="positive" lat="45.08110" lng="7.64734" period="5">
+    <speedflow flow="1137.81" speed="27.84"/>
+  </FDT_data>
+  <FDT_data lcd1="40124" offset="291" direction="positive" lat="45.08468" lng="7.65943" period="5">
+    <speedflow flow="558.42" speed="26.66"/>
+  </FDT_data>
+  <FDT_data lcd1="40125" offset="657" direction="negative" lat="45.08485" lng="7.65914" period="5">
+    <speedflow flow="623.00" speed="21.28"/>
+  </FDT_data>
+  <FDT_data lcd1="40125" offset="442" direction="negative" lat="45.08406" lng="7.66165" period="5">
+    <speedflow flow="535.19" speed="26.74"/>
+  </FDT_data>
+  <FDT_data lcd1="40124" offset="518" direction="positive" lat="45.08386" lng="7.66208" period="5">
+    <speedflow flow="499.82" speed="26.61"/>
+  </FDT_data>
+  <FDT_data lcd1="40126" offset="676" direction="negative" lat="45.08173" lng="7.66871" period="5">
+    <speedflow flow="396.75" speed="26.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40125" offset="736" direction="positive" lat="45.07952" lng="7.67507" period="5">
+    <speedflow flow="618.33" speed="18.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="239" direction="positive" lat="45.09860" lng="7.65890" period="5">
+    <speedflow flow="1224.23" speed="39.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40111" offset="903" direction="negative" lat="45.09883" lng="7.65921" period="5">
+    <speedflow flow="718.16" speed="32.11"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="34" direction="positive" lat="45.10030" lng="7.66002" period="5">
+    <speedflow flow="1300.70" speed="37.17"/>
+  </FDT_data>
+  <FDT_data lcd1="40050" offset="940" direction="negative" lat="45.10468" lng="7.67683" period="5">
+    <speedflow flow="2003.14" speed="31.57"/>
+  </FDT_data>
+  <FDT_data lcd1="40049" offset="565" direction="positive" lat="45.10454" lng="7.67718" period="5">
+    <speedflow flow="1574.26" speed="25.95"/>
+  </FDT_data>
+  <FDT_data lcd1="40307" offset="411" direction="positive" lat="45.10752" lng="7.66318" period="5">
+    <speedflow flow="804.80" speed="26.73"/>
+  </FDT_data>
+  <FDT_data lcd1="40294" offset="2587" direction="positive" lat="45.10669" lng="7.69440" period="5">
+    <speedflow flow="1134.81" speed="14.81"/>
+  </FDT_data>
+  <FDT_data lcd1="40049" offset="211" direction="negative" lat="45.10521" lng="7.66794" period="5">
+    <speedflow flow="696.92" speed="34.05"/>
+  </FDT_data>
+  <FDT_data lcd1="40308" offset="142" direction="negative" lat="45.10692" lng="7.66326" period="5">
+    <speedflow flow="548.05" speed="17.73"/>
+  </FDT_data>
+  <FDT_data lcd1="40016" offset="524" direction="negative" lat="45.05943" lng="7.66312" period="5">
+    <speedflow flow="684.74" speed="15.94"/>
+  </FDT_data>
+  <FDT_data lcd1="40300" offset="906" direction="positive" lat="45.06227" lng="7.67693" period="5">
+    <speedflow flow="414.02" speed="14.37"/>
+  </FDT_data>
+  <FDT_data lcd1="40186" offset="670" direction="negative" lat="45.03448" lng="7.64825" period="5">
+    <speedflow flow="420.00" speed="22.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40185" offset="289" direction="positive" lat="45.03463" lng="7.64885" period="5">
+    <speedflow flow="491.29" speed="23.82"/>
+  </FDT_data>
+  <FDT_data lcd1="40184" offset="267" direction="negative" lat="45.02413" lng="7.63681" period="5">
+    <speedflow flow="716.86" speed="16.34"/>
+  </FDT_data>
+  <FDT_data lcd1="40183" offset="231" direction="positive" lat="45.02427" lng="7.63713" period="5">
+    <speedflow flow="480.00" speed="24.50"/>
+  </FDT_data>
+  <FDT_data lcd1="39977" offset="752" direction="negative" lat="45.02459" lng="7.63559" period="5">
+    <speedflow flow="1051.24" speed="32.07"/>
+  </FDT_data>
+  <FDT_data lcd1="39976" offset="260" direction="positive" lat="45.02499" lng="7.63621" period="5">
+    <speedflow flow="528.00" speed="32.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40144" offset="238" direction="negative" lat="45.05200" lng="7.66112" period="5">
+    <speedflow flow="843.76" speed="19.26"/>
+  </FDT_data>
+  <FDT_data lcd1="40185" offset="615" direction="negative" lat="45.02849" lng="7.64156" period="5">
+    <speedflow flow="554.10" speed="27.45"/>
+  </FDT_data>
+  <FDT_data lcd1="40196" offset="1630" direction="negative" lat="45.10263" lng="7.69505" period="5">
+    <speedflow flow="1131.86" speed="15.20"/>
+  </FDT_data>
+  <FDT_data lcd1="40195" offset="182" direction="positive" lat="45.10191" lng="7.69448" period="5">
+    <speedflow flow="677.89" speed="15.02"/>
+  </FDT_data>
+  <FDT_data lcd1="40146" offset="685" direction="positive" lat="45.07061" lng="7.69385" period="5">
+    <speedflow flow="386.55" speed="14.60"/>
+  </FDT_data>
+  <FDT_data lcd1="40147" offset="599" direction="negative" lat="45.07017" lng="7.69397" period="5">
+    <speedflow flow="335.00" speed="14.76"/>
+  </FDT_data>
+  <FDT_data lcd1="40147" offset="1167" direction="negative" lat="45.06599" lng="7.69814" period="5">
+    <speedflow flow="600.00" speed="14.16"/>
+  </FDT_data>
+  <FDT_data lcd1="40146" offset="107" direction="positive" lat="45.06626" lng="7.69799" period="5">
+    <speedflow flow="251.00" speed="13.99"/>
+  </FDT_data>
+  <FDT_data lcd1="40124" offset="59" direction="positive" lat="45.08558" lng="7.65668" period="5">
+    <speedflow flow="499.82" speed="28.34"/>
+  </FDT_data>
+  <FDT_data lcd1="40285" offset="356" direction="negative" lat="45.09081" lng="7.65580" period="5">
+    <speedflow flow="106.21" speed="19.35"/>
+  </FDT_data>
+  <FDT_data lcd1="35771" offset="2348" direction="positive" lat="45.02852" lng="7.57802" period="5">
+    <speedflow flow="447.30" speed="51.88"/>
+  </FDT_data>
+  <FDT_data lcd1="40045" offset="191" direction="negative" lat="45.07912" lng="7.68515" period="5">
+    <speedflow flow="456.56" speed="15.44"/>
+  </FDT_data>
+  <FDT_data lcd1="40044" offset="1092" direction="positive" lat="45.07900" lng="7.68498" period="5">
+    <speedflow flow="275.00" speed="23.99"/>
+  </FDT_data>
+  <FDT_data lcd1="40183" offset="728" direction="negative" lat="45.01793" lng="7.62948" period="5">
+    <speedflow flow="907.77" speed="35.38"/>
+  </FDT_data>
+  <FDT_data lcd1="40182" offset="707" direction="positive" lat="45.01824" lng="7.63031" period="5">
+    <speedflow flow="841.30" speed="32.66"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="307" direction="negative" lat="45.07644" lng="7.66408" period="5">
+    <speedflow flow="186.97" speed="14.96"/>
+  </FDT_data>
+  <FDT_data lcd1="40027" offset="632" direction="positive" lat="45.07636" lng="7.66467" period="5">
+    <speedflow flow="670.27" speed="17.95"/>
+  </FDT_data>
+  <FDT_data lcd1="35772" offset="2124" direction="negative" lat="45.02852" lng="7.57802" period="5">
+    <speedflow flow="438.41" speed="43.97"/>
+  </FDT_data>
+  <FDT_data lcd1="40279" offset="955" direction="negative" lat="45.03444" lng="7.66797" period="5">
+    <speedflow flow="409.70" speed="14.41"/>
+  </FDT_data>
+  <FDT_data lcd1="39982" offset="1202" direction="negative" lat="45.05870" lng="7.55630" period="5">
+    <speedflow flow="950.40" speed="63.77"/>
+  </FDT_data>
+  <FDT_data lcd1="40048" offset="696" direction="positive" lat="45.10493" lng="7.66689" period="5">
+    <speedflow flow="384.00" speed="24.66"/>
+  </FDT_data>
+  <FDT_data lcd1="40049" offset="352" direction="negative" lat="45.10529" lng="7.66587" period="5">
+    <speedflow flow="334.83" speed="45.59"/>
+  </FDT_data>
+  <FDT_data lcd1="40114" offset="116" direction="positive" lat="45.04892" lng="7.66047" period="5">
+    <speedflow flow="300.00" speed="23.59"/>
+  </FDT_data>
+  <FDT_data lcd1="40142" offset="133" direction="negative" lat="45.05354" lng="7.65454" period="5">
+    <speedflow flow="803.00" speed="16.92"/>
+  </FDT_data>
+  <FDT_data lcd1="4871" offset="1913" direction="positive" lat="45.10467" lng="7.50445" period="5">
+    <speedflow flow="330.62" speed="57.43"/>
+  </FDT_data>
+  <FDT_data lcd1="39981" offset="1315" direction="positive" lat="45.05870" lng="7.55630" period="5">
+    <speedflow flow="1160.42" speed="60.44"/>
+  </FDT_data>
+  <FDT_data lcd1="35881" offset="521" direction="negative" lat="45.15660" lng="7.70955" period="5">
+    <speedflow flow="384.79" speed="48.97"/>
+  </FDT_data>
+  <FDT_data lcd1="4872" offset="6547" direction="negative" lat="45.10467" lng="7.50445" period="5">
+    <speedflow flow="366.34" speed="49.40"/>
+  </FDT_data>
+  <FDT_data lcd1="4845" offset="839" direction="positive" lat="44.96010" lng="7.56515" period="5">
+    <speedflow flow="272.88" speed="68.67"/>
+  </FDT_data>
+  <FDT_data lcd1="4846" offset="2249" direction="positive" lat="44.92205" lng="7.50460" period="5">
+    <speedflow flow="191.59" speed="59.11"/>
+  </FDT_data>
+  <FDT_data lcd1="36021" offset="522" direction="negative" lat="44.99575" lng="7.53705" period="5">
+    <speedflow flow="597.43" speed="84.63"/>
+  </FDT_data>
+  <FDT_data lcd1="36022" offset="3176" direction="positive" lat="44.98157" lng="7.49335" period="5">
+    <speedflow flow="380.71" speed="68.30"/>
+  </FDT_data>
+  <FDT_data lcd1="36020" offset="1436" direction="positive" lat="44.99575" lng="7.53705" period="5">
+    <speedflow flow="517.05" speed="61.41"/>
+  </FDT_data>
+  <FDT_data lcd1="35716" offset="925" direction="positive" lat="44.85010" lng="7.31800" period="5">
+    <speedflow flow="447.06" speed="56.71"/>
+  </FDT_data>
+  <FDT_data lcd1="12468" offset="1687" direction="positive" lat="44.84240" lng="7.35245" period="5">
+    <speedflow flow="380.36" speed="54.68"/>
+  </FDT_data>
+  <FDT_data lcd1="12465" offset="9009" direction="negative" lat="44.96345" lng="7.42102" period="5">
+    <speedflow flow="291.18" speed="63.53"/>
+  </FDT_data>
+  <FDT_data lcd1="12464" offset="5149" direction="positive" lat="44.96345" lng="7.42102" period="5">
+    <speedflow flow="289.50" speed="59.78"/>
+  </FDT_data>
+  <FDT_data lcd1="36023" offset="1962" direction="negative" lat="44.98157" lng="7.49335" period="5">
+    <speedflow flow="341.53" speed="64.93"/>
+  </FDT_data>
+  <FDT_data lcd1="4847" offset="1519" direction="negative" lat="44.92205" lng="7.50460" period="5">
+    <speedflow flow="274.66" speed="59.14"/>
+  </FDT_data>
+  <FDT_data lcd1="4863" offset="2907" direction="negative" lat="45.03860" lng="7.04635" period="5">
+    <speedflow flow="53.86" speed="48.00"/>
+  </FDT_data>
+  <FDT_data lcd1="4876" offset="1922" direction="positive" lat="45.11902" lng="7.21835" period="5">
+    <speedflow flow="103.49" speed="63.69"/>
+  </FDT_data>
+  <FDT_data lcd1="4881" offset="22" direction="negative" lat="45.05319" lng="6.85544" period="5">
+    <speedflow flow="206.95" speed="58.40"/>
+  </FDT_data>
+  <FDT_data lcd1="4882" offset="658" direction="positive" lat="45.02786" lng="6.82973" period="5">
+    <speedflow flow="41.66" speed="58.77"/>
+  </FDT_data>
+  <FDT_data lcd1="4884" offset="349" direction="negative" lat="44.95904" lng="6.79429" period="5">
+    <speedflow flow="211.24" speed="57.45"/>
+  </FDT_data>
+  <FDT_data lcd1="2043" offset="1354" direction="negative" lat="45.04111" lng="6.83534" period="5">
+    <speedflow flow="190.77" speed="130.00"/>
+  </FDT_data>
+  <FDT_data lcd1="4877" offset="8345" direction="positive" lat="45.13287" lng="7.06817" period="5">
+    <speedflow flow="250.79" speed="64.46"/>
+  </FDT_data>
+  <FDT_data lcd1="4901" offset="2353" direction="negative" lat="45.13560" lng="7.17920" period="5">
+    <speedflow flow="461.42" speed="66.52"/>
+  </FDT_data>
+  <FDT_data lcd1="4877" offset="5066" direction="negative" lat="45.11902" lng="7.21835" period="5">
+    <speedflow flow="165.83" speed="62.48"/>
+  </FDT_data>
+  <FDT_data lcd1="4874" offset="5699" direction="negative" lat="45.11300" lng="7.35862" period="5">
+    <speedflow flow="381.56" speed="68.31"/>
+  </FDT_data>
+  <FDT_data lcd1="4846" offset="4967" direction="negative" lat="44.96010" lng="7.56515" period="5">
+    <speedflow flow="276.05" speed="64.92"/>
+  </FDT_data>
+  <FDT_data lcd1="4895" offset="839" direction="positive" lat="45.08930" lng="7.39100" period="5">
+    <speedflow flow="454.68" speed="59.79"/>
+  </FDT_data>
+  <FDT_data lcd1="4883" offset="7241" direction="positive" lat="44.95904" lng="6.79429" period="5">
+    <speedflow flow="243.81" speed="57.29"/>
+  </FDT_data>
+  <FDT_data lcd1="2036" offset="7289" direction="positive" lat="45.13274" lng="7.09894" period="5">
+    <speedflow flow="803.51" speed="129.89"/>
+  </FDT_data>
+  <FDT_data lcd1="2037" offset="2125" direction="negative" lat="45.13274" lng="7.09894" period="5">
+    <speedflow flow="651.95" speed="129.88"/>
+  </FDT_data>
+  <FDT_data lcd1="35736" offset="539" direction="positive" lat="44.92015" lng="7.23887" period="5">
+    <speedflow flow="194.92" speed="60.86"/>
+  </FDT_data>
+  <FDT_data lcd1="35718" offset="2427" direction="negative" lat="44.85010" lng="7.31800" period="5">
+    <speedflow flow="319.63" speed="57.52"/>
+  </FDT_data>
+  <FDT_data lcd1="12469" offset="6463" direction="negative" lat="44.84240" lng="7.35245" period="5">
+    <speedflow flow="319.19" speed="53.19"/>
+  </FDT_data>
+  <FDT_data lcd1="4862" offset="657" direction="positive" lat="45.03860" lng="7.04635" period="5">
+    <speedflow flow="45.32" speed="48.00"/>
+  </FDT_data>
+  <FDT_data lcd1="40063" offset="38" direction="positive" lat="45.01760" lng="7.66759" period="5">
+    <speedflow flow="491.93" speed="17.80"/>
+  </FDT_data>
+  <FDT_data lcd1="40175" offset="22" direction="negative" lat="45.01648" lng="7.66838" period="5">
+    <speedflow flow="2412.00" speed="37.36"/>
+  </FDT_data>
+  <FDT_data lcd1="40189" offset="104" direction="positive" lat="45.01779" lng="7.66908" period="5">
+    <speedflow flow="1847.00" speed="42.00"/>
+  </FDT_data>
+  <FDT_data lcd1="40182" offset="16" direction="positive" lat="45.01337" lng="7.62491" period="5">
+    <speedflow flow="749.08" speed="34.58"/>
+  </FDT_data>
+  <FDT_data lcd1="40041" offset="24" direction="positive" lat="45.11201" lng="7.70645" period="5">
+    <speedflow flow="1445.91" speed="41.69"/>
+  </FDT_data>
+  <FDT_data lcd1="40041" offset="131" direction="negative" lat="45.11282" lng="7.70734" period="5">
+    <speedflow flow="930.52" speed="41.71"/>
+  </FDT_data>
+  <FDT_data lcd1="40263" offset="16" direction="negative" lat="45.10208" lng="7.70091" period="5">
+    <speedflow flow="766.28" speed="44.03"/>
+  </FDT_data>
+  <FDT_data lcd1="40042" offset="185" direction="positive" lat="45.10096" lng="7.69924" period="5">
+    <speedflow flow="743.19" speed="24.97"/>
+  </FDT_data>
+  <FDT_data lcd1="40263" offset="70" direction="positive" lat="45.10250" lng="7.69956" period="5">
+    <speedflow flow="1380.08" speed="32.65"/>
+  </FDT_data>
+  <FDT_data lcd1="40042" offset="107" direction="negative" lat="45.10302" lng="7.70092" period="5">
+    <speedflow flow="1292.84" speed="26.86"/>
+  </FDT_data>
+  <FDT_data lcd1="40124" offset="736" direction="positive" lat="45.08299" lng="7.66461" period="5">
+    <speedflow flow="478.30" speed="25.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40125" offset="204" direction="negative" lat="45.08314" lng="7.66436" period="5">
+    <speedflow flow="535.19" speed="26.50"/>
+  </FDT_data>
+  <FDT_data lcd1="40171" offset="403" direction="negative" lat="45.07242" lng="7.64085" period="5">
+    <speedflow flow="1247.00" speed="31.15"/>
+  </FDT_data>
+  <FDT_data lcd1="40170" offset="495" direction="positive" lat="45.07276" lng="7.64136" period="5">
+    <speedflow flow="816.00" speed="26.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40056" offset="576" direction="positive" lat="45.07816" lng="7.64541" period="5">
+    <speedflow flow="1337.72" speed="30.88"/>
+  </FDT_data>
+  <FDT_data lcd1="40025" offset="566" direction="negative" lat="45.07497" lng="7.62856" period="5">
+    <speedflow flow="370.29" speed="14.92"/>
+  </FDT_data>
+  <FDT_data lcd1="40024" offset="408" direction="positive" lat="45.07481" lng="7.62915" period="5">
+    <speedflow flow="299.86" speed="20.79"/>
+  </FDT_data>
+  <FDT_data lcd1="40027" offset="413" direction="positive" lat="45.07624" lng="7.66180" period="5">
+    <speedflow flow="533.40" speed="15.06"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="556" direction="negative" lat="45.07628" lng="7.66088" period="5">
+    <speedflow flow="240.55" speed="15.11"/>
+  </FDT_data>
+  <FDT_data lcd1="40041" offset="411" direction="positive" lat="45.10880" lng="7.70434" period="5">
+    <speedflow flow="1020.00" speed="36.61"/>
+  </FDT_data>
+  <FDT_data lcd1="40042" offset="831" direction="negative" lat="45.10900" lng="7.70486" period="5">
+    <speedflow flow="1426.62" speed="31.97"/>
+  </FDT_data>
+  <FDT_data lcd1="40185" offset="799" direction="negative" lat="45.02725" lng="7.64013" period="5">
+    <speedflow flow="731.00" speed="19.31"/>
+  </FDT_data>
+  <FDT_data lcd1="40184" offset="205" direction="positive" lat="45.02746" lng="7.64053" period="5">
+    <speedflow flow="480.00" speed="24.57"/>
+  </FDT_data>
+  <FDT_data lcd1="40182" offset="176" direction="positive" lat="45.01438" lng="7.62611" period="5">
+    <speedflow flow="749.08" speed="31.29"/>
+  </FDT_data>
+  <FDT_data lcd1="40183" offset="1231" direction="negative" lat="45.01440" lng="7.62547" period="5">
+    <speedflow flow="996.87" speed="42.36"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="663" direction="positive" lat="45.09514" lng="7.65656" period="5">
+    <speedflow flow="995.66" speed="22.68"/>
+  </FDT_data>
+  <FDT_data lcd1="40111" offset="495" direction="negative" lat="45.09548" lng="7.65701" period="5">
+    <speedflow flow="802.96" speed="31.40"/>
+  </FDT_data>
+  <FDT_data lcd1="40159" offset="522" direction="negative" lat="45.05066" lng="7.63432" period="5">
+    <speedflow flow="1187.00" speed="28.13"/>
+  </FDT_data>
+  <FDT_data lcd1="40158" offset="251" direction="positive" lat="45.05107" lng="7.63462" period="5">
+    <speedflow flow="1223.00" speed="23.05"/>
+  </FDT_data>
+  <FDT_data lcd1="40157" offset="704" direction="positive" lat="45.04638" lng="7.63432" period="5">
+    <speedflow flow="1343.00" speed="29.12"/>
+  </FDT_data>
+  <FDT_data lcd1="40158" offset="382" direction="negative" lat="45.04537" lng="7.63406" period="5">
+    <speedflow flow="815.49" speed="45.13"/>
+  </FDT_data>
+  <FDT_data lcd1="40279" offset="1240" direction="negative" lat="45.03191" lng="7.66699" period="5">
+    <speedflow flow="409.70" speed="14.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40171" offset="249" direction="negative" lat="45.07363" lng="7.64177" period="5">
+    <speedflow flow="1056.00" speed="25.62"/>
+  </FDT_data>
+  <FDT_data lcd1="40056" offset="14" direction="positive" lat="45.07374" lng="7.64201" period="5">
+    <speedflow flow="816.00" speed="41.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40086" offset="1207" direction="positive" lat="45.09148" lng="7.66576" period="5">
+    <speedflow flow="467.44" speed="22.85"/>
+  </FDT_data>
+  <FDT_data lcd1="40158" offset="678" direction="negative" lat="45.04270" lng="7.63398" period="5">
+    <speedflow flow="828.00" speed="33.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40157" offset="373" direction="positive" lat="45.04338" lng="7.63417" period="5">
+    <speedflow flow="1114.12" speed="38.08"/>
+  </FDT_data>
+  <FDT_data lcd1="40043" offset="915" direction="negative" lat="45.09947" lng="7.69852" period="5">
+    <speedflow flow="855.34" speed="17.34"/>
+  </FDT_data>
+  <FDT_data lcd1="40177" offset="259" direction="positive" lat="45.04847" lng="7.66415" period="5">
+    <speedflow flow="439.44" speed="17.15"/>
+  </FDT_data>
+  <FDT_data lcd1="40178" offset="256" direction="negative" lat="45.04825" lng="7.66380" period="5">
+    <speedflow flow="240.00" speed="22.27"/>
+  </FDT_data>
+  <FDT_data lcd1="40115" offset="231" direction="negative" lat="45.04977" lng="7.66131" period="5">
+    <speedflow flow="831.20" speed="15.06"/>
+  </FDT_data>
+  <FDT_data lcd1="40279" offset="1387" direction="negative" lat="45.03060" lng="7.66647" period="5">
+    <speedflow flow="409.70" speed="14.41"/>
+  </FDT_data>
+  <FDT_data lcd1="40243" offset="1297" direction="positive" lat="45.03049" lng="7.65403" period="5">
+    <speedflow flow="1176.71" speed="37.89"/>
+  </FDT_data>
+  <FDT_data lcd1="35737" offset="1610" direction="negative" lat="44.92015" lng="7.23887" period="5">
+    <speedflow flow="166.97" speed="61.10"/>
+  </FDT_data>
+  <FDT_data lcd1="4883" offset="692" direction="negative" lat="45.02786" lng="6.82973" period="5">
+    <speedflow flow="65.47" speed="58.76"/>
+  </FDT_data>
+  <FDT_data lcd1="4851" offset="1885" direction="negative" lat="44.88563" lng="7.37310" period="5">
+    <speedflow flow="829.25" speed="85.68"/>
+  </FDT_data>
+  <FDT_data lcd1="4851" offset="4257" direction="positive" lat="44.87902" lng="7.31392" period="5">
+    <speedflow flow="616.77" speed="87.57"/>
+  </FDT_data>
+  <FDT_data lcd1="4852" offset="218" direction="negative" lat="44.87902" lng="7.31392" period="5">
+    <speedflow flow="537.96" speed="88.08"/>
+  </FDT_data>
+  <FDT_data lcd1="4849" offset="2751" direction="positive" lat="44.88563" lng="7.37310" period="5">
+    <speedflow flow="812.13" speed="85.89"/>
+  </FDT_data>
+  <FDT_data lcd1="2042" offset="1460" direction="positive" lat="45.04111" lng="6.83534" period="5">
+    <speedflow flow="233.29" speed="130.00"/>
+  </FDT_data>
+  <FDT_data lcd1="2139" offset="929" direction="positive" lat="45.01416" lng="7.58798" period="5">
+    <speedflow flow="971.39" speed="129.91"/>
+  </FDT_data>
+  <FDT_data lcd1="4866" offset="1095" direction="positive" lat="44.95420" lng="6.86872" period="5">
+    <speedflow flow="49.49" speed="52.49"/>
+  </FDT_data>
+  <FDT_data lcd1="4864" offset="8784" direction="positive" lat="44.96192" lng="6.88395" period="5">
+    <speedflow flow="17.09" speed="52.50"/>
+  </FDT_data>
+  <FDT_data lcd1="4865" offset="7" direction="negative" lat="44.96192" lng="6.88395" period="5">
+    <speedflow flow="38.90" speed="52.50"/>
+  </FDT_data>
+  <FDT_data lcd1="4900" offset="3565" direction="positive" lat="45.13560" lng="7.17920" period="5">
+    <speedflow flow="516.59" speed="55.87"/>
+  </FDT_data>
+  <FDT_data lcd1="4880" offset="3507" direction="positive" lat="45.05319" lng="6.85544" period="5">
+    <speedflow flow="194.92" speed="57.26"/>
+  </FDT_data>
+  <FDT_data lcd1="4879" offset="372" direction="negative" lat="45.12135" lng="6.98970" period="5">
+    <speedflow flow="248.88" speed="58.86"/>
+  </FDT_data>
+  <FDT_data lcd1="4878" offset="6675" direction="positive" lat="45.12135" lng="6.98970" period="5">
+    <speedflow flow="227.15" speed="60.29"/>
+  </FDT_data>
+  <FDT_data lcd1="2039" offset="13390" direction="positive" lat="45.08768" lng="6.91113" period="5">
+    <speedflow flow="343.66" speed="117.00"/>
+  </FDT_data>
+  <FDT_data lcd1="4878" offset="1997" direction="negative" lat="45.13287" lng="7.06817" period="5">
+    <speedflow flow="229.17" speed="64.59"/>
+  </FDT_data>
+  <FDT_data lcd1="4872" offset="6813" direction="positive" lat="45.11300" lng="7.35862" period="5">
+    <speedflow flow="447.05" speed="60.41"/>
+  </FDT_data>
+  <FDT_data lcd1="4867" offset="8977" direction="negative" lat="44.95420" lng="6.86872" period="5">
+    <speedflow flow="44.95" speed="53.25"/>
+  </FDT_data>
+  <FDT_data lcd1="4886" offset="837" direction="positive" lat="44.94002" lng="6.75142" period="5">
+    <speedflow flow="84.12" speed="38.23"/>
+  </FDT_data>
+  <FDT_data lcd1="4887" offset="838" direction="negative" lat="44.94002" lng="6.75142" period="5">
+    <speedflow flow="70.17" speed="38.24"/>
+  </FDT_data>
+  <FDT_data lcd1="2041" offset="3708" direction="negative" lat="45.08768" lng="6.91113" period="5">
+    <speedflow flow="229.31" speed="117.00"/>
+  </FDT_data>
+  <FDT_data lcd1="4896" offset="2163" direction="negative" lat="45.08935" lng="7.39100" period="5">
+    <speedflow flow="566.79" speed="58.11"/>
+  </FDT_data>
+  <FDT_data lcd1="2035" offset="4479" direction="negative" lat="45.13236" lng="7.17973" period="5">
+    <speedflow flow="398.33" speed="130.00"/>
+  </FDT_data>
+  <FDT_data lcd1="2663" offset="1308" direction="negative" lat="45.12828" lng="7.68586" period="5">
+    <speedflow flow="2554.07" speed="117.07"/>
+  </FDT_data>
+  <FDT_data lcd1="2660" offset="2194" direction="positive" lat="45.12828" lng="7.68586" period="5">
+    <speedflow flow="2704.82" speed="115.90"/>
+  </FDT_data>
+  <FDT_data lcd1="2656" offset="2115" direction="positive" lat="45.09348" lng="7.56899" period="5">
+    <speedflow flow="3839.94" speed="93.06"/>
+  </FDT_data>
+  <FDT_data lcd1="2657" offset="763" direction="negative" lat="45.09348" lng="7.56899" period="5">
+    <speedflow flow="3764.08" speed="95.48"/>
+  </FDT_data>
+  <FDT_data lcd1="2655" offset="3449" direction="negative" lat="45.08218" lng="7.50941" period="5">
+    <speedflow flow="1737.48" speed="119.70"/>
+  </FDT_data>
+  <FDT_data lcd1="2032" offset="6868" direction="negative" lat="45.08090" lng="7.49980" period="5">
+    <speedflow flow="1016.53" speed="119.24"/>
+  </FDT_data>
+  <FDT_data lcd1="2652" offset="38" direction="positive" lat="45.08218" lng="7.50941" period="5">
+    <speedflow flow="1374.78" speed="119.93"/>
+  </FDT_data>
+  <FDT_data lcd1="2031" offset="76" direction="positive" lat="45.08100" lng="7.49970" period="5">
+    <speedflow flow="1372.46" speed="115.54"/>
+  </FDT_data>
+  <FDT_data lcd1="2696" offset="2007" direction="positive" lat="45.03384" lng="7.58059" period="5">
+    <speedflow flow="3062.60" speed="111.68"/>
+  </FDT_data>
+  <FDT_data lcd1="2698" offset="1981" direction="negative" lat="45.03384" lng="7.58059" period="5">
+    <speedflow flow="2805.56" speed="114.94"/>
+  </FDT_data>
+  <FDT_data lcd1="2696" offset="1214" direction="negative" lat="45.01050" lng="7.60918" period="5">
+    <speedflow flow="2558.19" speed="117.04"/>
+  </FDT_data>
+  <FDT_data lcd1="2695" offset="744" direction="positive" lat="45.01050" lng="7.60918" period="5">
+    <speedflow flow="2616.76" speed="116.62"/>
+  </FDT_data>
+  <FDT_data lcd1="2141" offset="2321" direction="negative" lat="45.01416" lng="7.58798" period="5">
+    <speedflow flow="907.25" speed="129.94"/>
+  </FDT_data>
+  <FDT_data lcd1="2690" offset="1544" direction="positive" lat="44.96991" lng="7.68543" period="5">
+    <speedflow flow="2317.96" speed="118.34"/>
+  </FDT_data>
+  <FDT_data lcd1="2691" offset="1920" direction="negative" lat="44.96991" lng="7.68543" period="5">
+    <speedflow flow="2130.51" speed="119.00"/>
+  </FDT_data>
+  <FDT_data lcd1="40095" offset="710" direction="positive" lat="45.03114" lng="7.61203" period="5">
+    <speedflow flow="2210.16" speed="23.40"/>
+  </FDT_data>
+  <FDT_data lcd1="14007" offset="268" direction="positive" lat="45.14470" lng="7.73368" period="5">
+    <speedflow flow="667.64" speed="129.99"/>
+  </FDT_data>
+  <FDT_data lcd1="2090" offset="218" direction="positive" lat="45.13404" lng="7.71593" period="5">
+    <speedflow flow="1633.11" speed="119.79"/>
+  </FDT_data>
+  <FDT_data lcd1="2091" offset="1071" direction="negative" lat="45.13404" lng="7.71593" period="5">
+    <speedflow flow="1675.06" speed="111.94"/>
+  </FDT_data>
+  <FDT_data lcd1="1398" offset="150" direction="negative" lat="45.14470" lng="7.73368" period="5">
+    <speedflow flow="559.32" speed="130.00"/>
+  </FDT_data>
+  <FDT_data lcd1="2034" offset="21621" direction="positive" lat="45.13236" lng="7.17973" period="5">
+    <speedflow flow="521.08" speed="129.99"/>
+  </FDT_data>
+  <FDT_data lcd1="40050" offset="1041" direction="positive" lat="45.10404" lng="7.68500" period="5">
+    <speedflow flow="696.00" speed="28.43"/>
+  </FDT_data>
+  <FDT_data lcd1="40010" offset="178" direction="positive" lat="45.05455" lng="7.65710" period="5">
+    <speedflow flow="516.86" speed="22.23"/>
+  </FDT_data>
+  <FDT_data lcd1="40011" offset="715" direction="negative" lat="45.05441" lng="7.65690" period="5">
+    <speedflow flow="576.00" speed="14.07"/>
+  </FDT_data>
+  <FDT_data lcd1="40040" offset="329" direction="positive" lat="45.11663" lng="7.70948" period="5">
+    <speedflow flow="564.24" speed="28.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40054" offset="410" direction="negative" lat="45.04829" lng="7.65252" period="5">
+    <speedflow flow="752.43" speed="32.02"/>
+  </FDT_data>
+  <FDT_data lcd1="40053" offset="599" direction="positive" lat="45.04851" lng="7.65280" period="5">
+    <speedflow flow="796.52" speed="22.91"/>
+  </FDT_data>
+  <FDT_data lcd1="40044" offset="398" direction="positive" lat="45.08465" lng="7.68864" period="5">
+    <speedflow flow="296.19" speed="14.06"/>
+  </FDT_data>
+  <FDT_data lcd1="40045" offset="894" direction="negative" lat="45.08480" lng="7.68901" period="5">
+    <speedflow flow="389.98" speed="13.31"/>
+  </FDT_data>
+  <FDT_data lcd1="40027" offset="319" direction="positive" lat="45.07613" lng="7.66026" period="5">
+    <speedflow flow="313.24" speed="14.77"/>
+  </FDT_data>
+  <FDT_data lcd1="40027" offset="457" direction="negative" lat="45.07586" lng="7.65103" period="5">
+    <speedflow flow="573.21" speed="29.25"/>
+  </FDT_data>
+  <FDT_data lcd1="40045" offset="126" direction="negative" lat="45.07866" lng="7.68490" period="5">
+    <speedflow flow="456.56" speed="22.21"/>
+  </FDT_data>
+  <FDT_data lcd1="40146" offset="546" direction="positive" lat="45.06906" lng="7.69516" period="5">
+    <speedflow flow="423.24" speed="14.65"/>
+  </FDT_data>
+  <FDT_data lcd1="40147" offset="749" direction="negative" lat="45.06955" lng="7.69486" period="5">
+    <speedflow flow="337.46" speed="14.93"/>
+  </FDT_data>
+  <FDT_data lcd1="40207" offset="91" direction="positive" lat="45.06521" lng="7.67191" period="5">
+    <speedflow flow="720.00" speed="25.10"/>
+  </FDT_data>
+  <FDT_data lcd1="40034" offset="74" direction="negative" lat="45.06506" lng="7.67032" period="5">
+    <speedflow flow="760.29" speed="26.43"/>
+  </FDT_data>
+  <FDT_data lcd1="40207" offset="100" direction="negative" lat="45.06606" lng="7.66981" period="5">
+    <speedflow flow="611.00" speed="18.50"/>
+  </FDT_data>
+  <FDT_data lcd1="40208" offset="274" direction="negative" lat="45.07645" lng="7.66505" period="5">
+    <speedflow flow="298.05" speed="18.46"/>
+  </FDT_data>
+  <FDT_data lcd1="40141" offset="458" direction="positive" lat="45.05356" lng="7.65362" period="5">
+    <speedflow flow="311.00" speed="17.53"/>
+  </FDT_data>
+  <FDT_data lcd1="40010" offset="94" direction="positive" lat="45.05384" lng="7.65658" period="5">
+    <speedflow flow="300.00" speed="14.02"/>
+  </FDT_data>
+  <FDT_data lcd1="40042" offset="1203" direction="positive" lat="45.09244" lng="7.69374" period="5">
+    <speedflow flow="288.00" speed="18.14"/>
+  </FDT_data>
+  <FDT_data lcd1="40043" offset="114" direction="negative" lat="45.09283" lng="7.69426" period="5">
+    <speedflow flow="1055.95" speed="18.63"/>
+  </FDT_data>
+  <FDT_data lcd1="39978" offset="393" direction="negative" lat="45.03178" lng="7.64068" period="5">
+    <speedflow flow="617.79" speed="28.76"/>
+  </FDT_data>
+  <FDT_data lcd1="39976" offset="774" direction="positive" lat="45.02908" lng="7.63917" period="5">
+    <speedflow flow="1061.08" speed="25.86"/>
+  </FDT_data>
+  <FDT_data lcd1="39977" offset="206" direction="negative" lat="45.02887" lng="7.63879" period="5">
+    <speedflow flow="1216.60" speed="46.19"/>
+  </FDT_data>
+  <FDT_data lcd1="40049" offset="622" direction="negative" lat="45.10559" lng="7.66256" period="5">
+    <speedflow flow="431.00" speed="21.71"/>
+  </FDT_data>
+  <FDT_data lcd1="40048" offset="486" direction="positive" lat="45.10506" lng="7.66428" period="5">
+    <speedflow flow="636.00" speed="18.51"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="216" direction="negative" lat="45.10195" lng="7.66163" period="5">
+    <speedflow flow="447.70" speed="32.07"/>
+  </FDT_data>
+  <FDT_data lcd1="40110" offset="276" direction="negative" lat="45.10132" lng="7.66073" period="5">
+    <speedflow flow="596.90" speed="21.38"/>
+  </FDT_data>
+  <FDT_data lcd1="40123" offset="1862" direction="negative" lat="45.09362" lng="7.63262" period="5">
+    <speedflow flow="1922.30" speed="49.35"/>
+  </FDT_data>
+  <FDT_data lcd1="39997" offset="1673" direction="positive" lat="45.06748" lng="7.70979" period="5">
+    <speedflow flow="605.15" speed="14.14"/>
+  </FDT_data>
+  <FDT_data lcd1="40100" offset="888" direction="negative" lat="45.04097" lng="7.63567" period="5">
+    <speedflow flow="204.62" speed="21.68"/>
+  </FDT_data>
+  <FDT_data lcd1="40099" offset="383" direction="positive" lat="45.04191" lng="7.63788" period="5">
+    <speedflow flow="458.20" speed="16.92"/>
+  </FDT_data>
+  <FDT_data lcd1="40154" offset="1651" direction="positive" lat="45.02393" lng="7.63195" period="5">
+    <speedflow flow="384.00" speed="28.49"/>
+  </FDT_data>
+  <FDT_data lcd1="40206" offset="186" direction="negative" lat="45.07189" lng="7.65360" period="5">
+    <speedflow flow="600.00" speed="23.94"/>
+  </FDT_data>
+</traffic_data>
+ 

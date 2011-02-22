@@ -10,9 +10,7 @@ gem 'rcov'
 gem 'grit'
 gem 'httparty'
 gem 'GeoRuby'
-group :development, :test do
-   gem 'spatial_adapter'
-end
+
 
 
 # Use unicorn as the web server

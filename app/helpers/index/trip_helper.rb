@@ -1,0 +1,2 @@
+module Index::TripHelper
+end
