@@ -1,4 +1,10 @@
+require "traffic_engine"
+require "parking_engine"
+
 class TripController < ApplicationController
+
+  before_filter init_engines
+
   def index
 
     @json = '[
@@ -17,5 +23,13 @@ class TripController < ApplicationController
     ]#Gmaps4rails.geocode(params[:adress])
 
   end
+
+
+   def private init_engines
+
+     @traffic_engine = TrafficEngine.new
+     @parking_engine = ParkingEngine.new
+
+   end
 
 end
