@@ -1,0 +1,36 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<td:traffic_data xmlns:td="http://www.5t.torino.it/simone/ns/traffic_data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.5t.torino.it/simone/ns/traffic_data http://www.5t.torino.it/simone/ns/traffic_data.xsd" datatype="misura" generation_time="2011-02-23T09:02:40+01:00" start_time="2011-02-23T08:57:40+01:00" end_time="2011-02-23T09:02:40+01:00" source="5T.PARK">
+  <td:location_reference>
+    <td:tmc_info tabcd="1" cid="25"/>
+  </td:location_reference>
+  <td:PK_data Name="ARBARELLO" ID="1" status="1" Total="134" Free="86" tendence="-1" lat="45.07243" lng="7.67480"/>
+  <td:PK_data Name="BACIGALUPO" ID="46" status="1" Total="305" Free="118" tendence="-1" lat="45.03660" lng="7.67249"/>
+  <td:PK_data Name="BIXIO" ID="47" status="1" Total="273" lat="45.06772" lng="7.65686"/>
+  <td:PK_data Name="BODONI" ID="2" status="1" Total="434" Free="277" tendence="-1" lat="45.06355" lng="7.68357"/>
+  <td:PK_data Name="BOLZANO" ID="3" status="1" Total="858" lat="45.07248" lng="7.66716"/>
+  <td:PK_data Name="CAIO MARIO" ID="23" status="1" Total="696" Free="374" tendence="-1" lat="45.02863" lng="7.64029"/>
+  <td:PK_data Name="CTO" ID="32" status="1" Total="164" Free="24" tendence="-1" lat="45.03360" lng="7.67349"/>
+  <td:PK_data Name="D'AZEGLIO GALILEI" ID="4" status="1" Total="229" Free="103" tendence="-1" lat="45.04289" lng="7.67754"/>
+  <td:PK_data Name="EMANUELE FILIBERTO" ID="5" status="1" Total="110" Free="73" tendence="1" lat="45.07666" lng="7.68031"/>
+  <td:PK_data Name="FERMI" ID="24" status="1" Total="300" lat="45.07646" lng="7.59106"/>
+  <td:PK_data Name="FONTANESI" ID="16" status="1" Total="365" Free="90" tendence="-1" lat="45.07035" lng="7.70501"/>
+  <td:PK_data Name="GALILEO FERRARIS" ID="6" status="1" Total="420" Free="215" tendence="-1" lat="45.06745" lng="7.67219"/>
+  <td:PK_data Name="LINGOTTO" ID="7" status="1" Total="2800" lat="45.03162" lng="7.66268"/>
+  <td:PK_data Name="MADAMA CRISTINA" ID="8" status="1" Total="259" Free="123" tendence="1" lat="45.05859" lng="7.68342"/>
+  <td:PK_data Name="MOLINETTE" ID="25" status="1" Total="470" Free="137" tendence="-1" lat="45.03858" lng="7.67589"/>
+  <td:PK_data Name="NIZZA" ID="9" status="1" Total="375" Free="182" tendence="-1" lat="45.04085" lng="7.66890"/>
+  <td:PK_data Name="PALAGIUSTIZIA" ID="10" status="1" Total="485" Free="241" tendence="-1" lat="45.06935" lng="7.66109"/>
+  <td:PK_data Name="PORTA PALAZZO" ID="11" status="1" Total="753" Free="639" tendence="1" lat="45.07646" lng="7.68647"/>
+  <td:PK_data Name="RACCONIGI" ID="17" status="1" Total="97" Free="64" tendence="1" lat="45.06983" lng="7.64669"/>
+  <td:PK_data Name="RE UMBERTO" ID="13" status="1" Total="137" Free="0" tendence="1" lat="45.06700" lng="7.67583"/>
+  <td:PK_data Name="ROMA S.CARLO CASTELLO" ID="14" status="1" Total="800" Free="435" tendence="-1" lat="45.06399" lng="7.68037"/>
+  <td:PK_data Name="SANTO STEFANO" ID="12" status="1" Total="390" Free="153" tendence="-1" lat="45.07384" lng="7.68372"/>
+  <td:PK_data Name="SOFIA" ID="27" status="1" Total="277" Free="184" tendence="1" lat="45.09557" lng="7.71692"/>
+  <td:PK_data Name="STATI UNITI" ID="19" status="1" Total="200" Free="157" tendence="-1" lat="45.06406" lng="7.66700"/>
+  <td:PK_data Name="STURA" ID="28" status="1" Total="610" Free="593" tendence="1" lat="45.12058" lng="7.71156"/>
+  <td:PK_data Name="VALDO FUSI" ID="18" status="1" Total="500" Free="269" tendence="-1" lat="45.06504" lng="7.68761"/>
+  <td:PK_data Name="VENCHI UNICA" ID="48" status="2" Total="449" lat="45.07410" lng="7.61576"/>
+  <td:PK_data Name="VENTIMIGLIA" ID="15" status="1" Total="312" Free="4" tendence="1" lat="45.03365" lng="7.67297"/>
+  <td:PK_data Name="VITTORIO PARK" ID="30" status="1" Total="478" Free="323" tendence="-1" lat="45.06478" lng="7.69543"/>
+</td:traffic_data>

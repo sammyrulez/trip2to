@@ -3,7 +3,7 @@
 <head>
   <title>Trip2to</title>
   <%= stylesheet_link_tag :all %>
-  <%= javascript_include_tag "jquery" %>
+  <%= javascript_include_tag :defaults %>
  <%= javascript_include_tag "jquery.json.min" %>
  <%= javascript_include_tag "jquery.jscrollpane.min" %>
 
@@ -11,6 +11,9 @@
   <%= csrf_meta_tag %>
 </head>
 <body>
+<div id="loading" style="display:none; background:#c00; color:#fff">
+ Loading
+</div>
 
 <%= yield %>
 <br/>

@@ -6,7 +6,7 @@ class TrafficEngineTest < Test::Unit::TestCase
 
   def test_for_congested
         t = TrafficEngine.new
-        t.engine= HttpGetterEngineMock.new
+        t.engine= HttpGetterEngineTrafficMock.new
         out = t.is_area_congested(45.11606,7.70910)
         assert_equal(73,out[:balance],"Wrong balance")
         assert(out[:avarage_speed] > 29,"Avarage speed to loo for test data")
@@ -19,7 +19,7 @@ class TrafficEngineTest < Test::Unit::TestCase
 
 end
 
-class HttpGetterEngineMock
+class HttpGetterEngineTrafficMock
 
   def get(p)
 

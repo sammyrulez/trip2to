@@ -1,7 +1,18 @@
+require "http_getter_engine"
+
 module  HttpEnginable
-  @engine = HttpGetterEngine.new
+
+
 
   def engine=(val)
     @engine = val
   end
+
+  def engine
+   if @engine == NIL
+      @engine = HttpGetterEngine.new
+   end
+    @engine
+  end
+
 end

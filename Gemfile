@@ -10,6 +10,7 @@ gem 'rcov'
 gem 'grit'
 gem 'httparty'
 gem 'GeoRuby'
+gem 'jquery-rails', '>= 0.2.6'
 gem "json"
 gem "gmaps4rails"
 

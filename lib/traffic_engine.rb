@@ -15,7 +15,7 @@ include HttpEnginable
       balance = 0
       avarage_speed = 0
 
-      doc = @engine.get('http://opendata.5t.torino.it/get_fdt')
+      doc = engine.get('http://opendata.5t.torino.it/get_fdt')
       doc.elements.each('traffic_data/FDT_data') do |p|
          actual_point = GeoRuby::SimpleFeatures::Point.new
          actual_point.x= p.attributes['lng'].to_f
