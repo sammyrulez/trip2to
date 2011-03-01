@@ -5,7 +5,7 @@ gem 'rails', '3.0.4'
 # Bundle edge Rails instead:
 #gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3-ruby', :require => 'sqlite3', :group => :development
+gem 'mysql2', :group => :development
 gem 'rcov'
 gem 'grit'
 gem 'httparty'
@@ -13,6 +13,8 @@ gem 'GeoRuby'
 gem 'jquery-rails', '>= 0.2.6'
 gem "json"
 gem "gmaps4rails"
+gem 'spatial_adapter'
+gem 'fastercsv'
 
 
 

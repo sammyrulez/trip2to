@@ -5,6 +5,8 @@ Trip2to::Application.routes.draw do
 
   post "trip/geocode"
 
+  get  "trip/evalTrip"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

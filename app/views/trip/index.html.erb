@@ -1,27 +1,14 @@
 
 
 
-<%= form_tag ('geocode', :remote => true , :id => "tool-form") do %>
+<%= form_tag ('geocode',  :id => "tool-form") do %>
    <%=text_field_tag 'adress' %>  <%=submit_tag 'Localizza'  %>
 <% end %>
 
-<script type="text/javascript">
-  jQuery(function() {
-  // create a convenient toggleLoading function
-  var toggleLoading = function() { $("#loading").toggle() };
 
-  $("#tool-form")
-    .bind("ajax:loading",  toggleLoading)
-    .bind("ajax:complete", toggleLoading)
-    .bind("ajax:success", function(event, data, status, xhr) {
-      $("#response").html(data);
-    });
-});
-</script>
 
-<div id="response"></div>
+<div id="response">
+  
 
-<!--
-<%= gmaps4rails_map(@json, { "processing" => 'json' ,"map_zoom" => 11, "map_center_latitude" => 45.11663  , "map_center_longitude" => 7.70948}) %>
+</div>
 
--->

@@ -1,7 +1,10 @@
-<p>
-  Results:
-</p>
-<p>
+<ul>
+  <%@adresses.each {|adress| %>
+    <li><%= adress[:matched_address] %>
 
-<%= @gc_result %>
-</p>
+      <%= link_to 'Vai', {:action => "evalTrip" , :original => @original ,:lat =>  adress[:lat]  , :lng =>  adress[:lng]} , :class => "button-refresh"%>
+
+    </li>
+
+<% } %>
+</ul>

@@ -1,5 +1,6 @@
 require 'httparty'
 
+
 class HttpGetterEngine
 
   def get(url)
@@ -8,7 +9,7 @@ class HttpGetterEngine
       if   response.code != 200
          raise "Response #{response.code}"
       else
-        return response.body
+        return REXML::Document.new response.body
       end
   end
 
