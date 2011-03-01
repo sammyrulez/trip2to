@@ -18,3 +18,15 @@
 
   </ul>
 </div>
+
+<div>
+  <h2>Fermate entro 100 metri</h2>
+  <ul>
+    <% @bus_stops.each {|stop| %>
+
+        <li><%=stop.stop_name %> </li>
+
+    <% } %>
+
+  </ul>
+</div>
