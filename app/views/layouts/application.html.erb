@@ -2,10 +2,16 @@
 <html>
 <head>
   <title>Trip2to</title>
-  <%= stylesheet_link_tag :all %>
-  <%= javascript_include_tag :defaults %>
- <%= javascript_include_tag "jquery.json.min" %>
- <%= javascript_include_tag "jquery.jscrollpane.min" %>
+  <link rel="Shortcut Icon" type="image/ico" href="img/favicon.png">
+  	<%= stylesheet_link_tag :all %>
+   	<%= stylesheet_link_tag "reset.css"  %>
+   	<%= stylesheet_link_tag "style.css" %>
+    <%= stylesheet_link_tag "netbooks-tablets.css" , :media => "screen and (max-width: 1007px)" %> 
+    <link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
+ 		<%= javascript_include_tag :defaults %>
+ 		<%= javascript_include_tag "jquery.json.min" %>
+ 		<%= javascript_include_tag "jquery.jscrollpane.min" %>
+  	<%= javascript_include_tag "html5" %>
 
   <%= yield :head %>
   <%= csrf_meta_tag %>
@@ -15,9 +21,28 @@
  Loading
 </div>
 
-<%= yield %>
-<br/>
-<hr/>
+ <div id="wrap">
+            <header>
+                <div class="inside">
+                    <h1>Trip<span>2</span>To</h1> <!-- This line for @font-face presentational purposes only -->
+                    <nav>
+                    </nav>
+                </div>
+            </header>
+            <article>
+                <section>
+                    <div class="inside">
+                    <%= yield %>
+                    </div>
+                </section>  
+            </article>
+             </div>
+        <footer>
+        <div class="separetor"> </div>
+            <div class="inside">
+            Sviluppato da <a href="http://www.sammyrulez.com">Sam Reghenzi</a> in occasione della <a href="http://biennaledemocrazia.it">BIENNALE DEMOCRAZIA</a> 
+            </div>
+        </footer>  
  <%= yield :scripts %>
 </body>
 </html>
