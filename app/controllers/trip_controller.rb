@@ -40,7 +40,7 @@ class TripController < ApplicationController
       p = ParkingEngine.new
       @parking_data = p.available_parkings(result[:lat], result[:lng])
 
-      @bus_stops = BusStop.near(result[:lat], result[:lng],100)
+      @bus_stops = BusStop.find_near([result[:lat], result[:lng]])
 
       render(:template => "trip/destination_map")
     end
