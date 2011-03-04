@@ -2,7 +2,7 @@
   <%@adresses.each {|adress| %>
     <li><%= adress[:matched_address] %>
 
-      <%= link_to 'Vai', {:action => "evalTrip" , :original => @original ,:lat =>  adress[:lat]  , :lng =>  adress[:lng]} , :class => "button-refresh"%>
+      <%= link_to 'Vai', {:action => "geocode" , :adress =>  adress[:matched_address] , :original => @original ,:lat =>  adress[:lat]  , :lng =>  adress[:lng] , :method => 'POST'} , :class => "button-refresh"%>
 
     </li>
 

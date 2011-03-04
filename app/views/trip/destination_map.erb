@@ -1,32 +1,48 @@
-  <div class="inside">
-<%= gmaps4rails_map(@json, { "processing" => 'json' ,"map_zoom" => 13, "map_center_latitude" => @center_lat  , "map_center_longitude" => @center_log}) %>
+<div class="inside">
+
+  <%= render :partial => 'search_form' %>
+
 </div>
-  <div class="inside">
+<div class="inside">
+  <%= gmaps4rails_map(@json, {"processing" => 'json', "map_zoom" => 15, "map_center_latitude" => @center_lat, "map_center_longitude" => @center_log}) %>
+</div>
+<div class="inside">
   <h2>Traffico</h2>
-  <p><strong>Velocita' media:</strong><span class="red_cartpet"><%=@traffic_data[:avarage_speed] %></span>  km/h</p>
-  <p><strong>Veicoli in transito:</strong> <span class="red_cartpet"> <%=@traffic_data[:balance] %> </span> al minuto</p>
+
+  <p><strong>Velocita' media:</strong><span class="red_cartpet"><%= @traffic_data[:avarage_speed] %></span> km/h</p>
+
+  <p><strong>Veicoli in transito:</strong> <span class="red_cartpet"> <%= @traffic_data[:balance] %> </span> al minuto
+  </p>
 </div>
- <div class="separetor"> </div>
-  <div class="inside">
-  <h2>Parcheggi entro <span>500 mt</span></h2>
-  <ul>
-    <% @parking_data.keys.each {|park| %>
+<div class="separetor"></div>
+<% if @parkig_data %>
+    <div class="inside">
+      <h2>Parcheggi entro <span>500 mt</span></h2>
+      <ul>
+        <% @parking_data.keys.each { |park| %>
 
-    <li><strong><%=park %>  <%= @parking_data[park]['name'] %></strong> : <span class="red_cartpet"> <%= @parking_data[park]['free'] %></span> Posti Liberi su  <%= @parking_data[park]['total'] %></li>
+            <li><strong><%= park %>  <%= @parking_data[park]['name'] %></strong> :
+              <span class="red_cartpet"> <%= @parking_data[park]['free'] %></span> Posti Liberi
+              su  <%= @parking_data[park]['total'] %></li>
 
-    <% } %>
+        <% } %>
 
-  </ul>
-</div>
- <div class="separetor"> </div>
-  <div class="inside">
-  <h2>Fermate entro <span>300 mt</span></h2>
-  <ul>
-    <% @bus_stops.each {|stop| %>
+      </ul>
+    </div>
+    <div class="separetor"></div>
+<% end %>
+<% if  @bus_stops %>
+    <div class="inside">
+      <h2>Fermate entro <span>300 mt</span></h2>
+      <ul>
+        <% @bus_stops.each { |stop| %>
 
-        <li><strong><%=stop.stop_name %></strong> <%=stop.stop_desc %> - <span class="red_cartpet"> <%=stop.distance_in_mt %> mt </span>- <a href="<%=stop.stop_url %>" target="_blank">Dettaglio</a> </li>
+            <li><strong><%= stop.stop_name %></strong> <%= stop.stop_desc %> -
+              <span class="red_cartpet"> <%= stop.distance_in_mt %> mt </span>-
+              <a href="<%= stop.stop_url %>" target="_blank">Dettaglio</a></li>
 
-    <% } %>
+        <% } %>
 
-  </ul>
-</div>
+      </ul>
+    </div>
+<% end %>

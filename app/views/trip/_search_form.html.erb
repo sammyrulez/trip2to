@@ -1,0 +1,4 @@
+<h3>Immetti l'indirizzo di destinazione</h3>
+<%= form_tag ('/trip/geocode',  :id => "tool-form") do %>
+    <%=text_field_tag 'adress' %>  <%=submit_tag 'Localizza'  %>
+<% end %>

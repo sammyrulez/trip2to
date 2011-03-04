@@ -1,15 +1,24 @@
+<div class="inside">
+  <p>Trip2To è un applicazione volta a miglirare l'utilizzo dei parcheggi
+  e dei mezzi pubblici in relazione al traffico nella città di Torino.</p>
+  <p>E' sufficiente immetere l'indirizzo di destinazione e verranno calcolati
+
+    <p>il numero
+    di veicoli in transito in quella zona della citt&agrave; </p>
+    <p>  la velocit&agrave; media </p>
+    <p>i parcheggi con le relative disponibilit&agrave;</p>
+      <p>le fermate dei mezzi pubblici</p>
+    
+  </p>
+</div>
+
   <div class="inside">
 
 
-<%= form_tag ('geocode',  :id => "tool-form") do %>
-   <%=text_field_tag 'adress' %>  <%=submit_tag 'Localizza'  %>
-<% end %>
+<%= render :partial => 'search_form' %>
 
 
 
-<div id="response">
-  
 
-</div>
       </div>
 

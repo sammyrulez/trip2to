@@ -1,11 +1,13 @@
 Trip2to::Application.routes.draw do
   get "trip/index"
 
-  get "trip/status"
+  #get "trip/status"
 
   post "trip/geocode"
 
-  get  "trip/evalTrip"
+  get "trip/geocode"
+
+  #get  "trip/evalTrip"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -56,7 +58,7 @@ Trip2to::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  # root :to => "welcome#index"
+  root :to => "trip#index"
 
   # See how all your routes lay out with "rake routes"
 
