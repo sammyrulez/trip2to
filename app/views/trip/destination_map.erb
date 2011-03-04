@@ -1,30 +1,30 @@
-<div>
-<%= gmaps4rails_map(@json, { "processing" => 'json' ,"map_zoom" => 11, "map_center_latitude" => 45.11663  , "map_center_longitude" => 7.70948}) %>
+  <div class="inside">
+<%= gmaps4rails_map(@json, { "processing" => 'json' ,"map_zoom" => 13, "map_center_latitude" => @center_lat  , "map_center_longitude" => @center_log}) %>
 </div>
-<div>
+  <div class="inside">
   <h2>Traffico</h2>
-  <p>Velocita' media: <%=@traffic_data[:avarage_speed] %></p>
-  <p>Veicoli in transito: <%=@traffic_data[:balance] %> al minuto</p>
+  <p><strong>Velocita' media:</strong><span class="red_cartpet"><%=@traffic_data[:avarage_speed] %></span>  km/h</p>
+  <p><strong>Veicoli in transito:</strong> <span class="red_cartpet"> <%=@traffic_data[:balance] %> </span> al minuto</p>
 </div>
-
-<div>
-  <h2>Parcheggi entro 500 mt</h2>
+ <div class="separetor"> </div>
+  <div class="inside">
+  <h2>Parcheggi entro <span>500 mt</span></h2>
   <ul>
     <% @parking_data.keys.each {|park| %>
 
-    <li><strong><%=park %>  <%= @parking_data[park]['name'] %></strong> :  <%= @parking_data[park]['free'] %> Posti Liberi su  <%= @parking_data[park]['total'] %></li>
+    <li><strong><%=park %>  <%= @parking_data[park]['name'] %></strong> : <span class="red_cartpet"> <%= @parking_data[park]['free'] %></span> Posti Liberi su  <%= @parking_data[park]['total'] %></li>
 
     <% } %>
 
   </ul>
 </div>
-
-<div>
-  <h2>Fermate entro 100 metri</h2>
+ <div class="separetor"> </div>
+  <div class="inside">
+  <h2>Fermate entro <span>300 mt</span></h2>
   <ul>
     <% @bus_stops.each {|stop| %>
 
-        <li><%=stop.stop_name %> </li>
+        <li><strong><%=stop.stop_name %></strong> <%=stop.stop_desc %> - <span class="red_cartpet"> <%=stop.distance_in_mt %> mt </span>- <a href="<%=stop.stop_url %>" target="_blank">Dettaglio</a> </li>
 
     <% } %>
 

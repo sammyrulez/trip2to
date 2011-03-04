@@ -25,7 +25,8 @@ body{
 /* The fraction classes are useful for column lists */
 .half, .third, .quarter, .fifth, .sixth{ width: 100%; }
 .half li, .third li, .quarter li, .fifth li, .sixth li{ float: left; }
-.half li{ padding-right: 5%; width: 45% }
+li{ padding: 5px;}
+.ul {padding-top: 10px;}
 .third li{  padding-right: 5%; width: 28.3% }
 .quarter li{  padding-right: 5%; width: 20% }
 .fifth li{  padding-right: 5%; width: 15% }
@@ -60,6 +61,11 @@ body{
         float: left;
         width: 100%;
         text-align:center; }
+     .red_cartpet{
+        color: #C00;
+    }
+
+
     
 /* Project specifics =========================================================== */
 /* Pour some CSS below ========================================================= */
@@ -67,6 +73,11 @@ body{
 /* The H1 declarations - for @font-face presentational purposes only */
 h1{ font: 88px 'Anton', Arial, sans-serif; }
 h1 span {color: #C00;}
+
+h2{ font: 44px 'Anton', Arial, sans-serif; }
+h2 span {color: #C00;}
+
+p {padding:5px; font-size: 16px;}
 
 a {
 	color: #C00;
@@ -81,4 +92,5 @@ a:hover {
 
 button {font: 1.2em 'Anton', Arial, sans-serif;}
 input {font: 1.2em 'Anton', Arial, sans-serif;}
+input text { background-color:#ccf; width:600px; height:22px;}
    

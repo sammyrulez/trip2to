@@ -6,10 +6,7 @@ class TripController < ApplicationController
   
   def index
 
-    @json = '[
-             {"description": "Test", "longitude": "7.70948", "latitude": "45.11663"},
-             {"longitude": "7.66026", "latitude": "45.07613" }
-            ]'
+
   end
 
   def status
@@ -25,7 +22,7 @@ class TripController < ApplicationController
 #    {:lat=>-9.9599095, :lng=>-150.2052861, :matched_address=>"Millennium Island, French Polynesia"}
 #    ]
 
-    geo_result = Gmaps4rails.geocode(params[:adress])
+    geo_result = Gmaps4rails.geocode("Torino #{params[:adress]}")
 
     if(geo_result.length > 1)
       @adresses = geo_result
@@ -34,13 +31,16 @@ class TripController < ApplicationController
     else
       result = geo_result[0]
       @json = [{"description" => result[:matched_address] , "longitude" => result[:lng], "latitude"=> result[:lat]}].to_json
+      @center_log = result[:lng]
+      @center_lat = result[:lat]
+
 
       t = TrafficEngine.new
       @traffic_data = t.is_area_congested( result[:lat], result[:lng])
       p = ParkingEngine.new
       @parking_data = p.available_parkings(result[:lat], result[:lng])
 
-      @bus_stops = BusStop.find_near([result[:lat], result[:lng]])
+      @bus_stops = BusStop.find_near([result[:lat], result[:lng]],0.3)
 
       render(:template => "trip/destination_map")
     end

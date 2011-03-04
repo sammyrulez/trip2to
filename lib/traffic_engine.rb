@@ -34,7 +34,7 @@ include HttpEnginable
       avarage_speed = avarage_speed / balance
       puts "avarage speed : #{avarage_speed}"
 
-      {:balance => balance, :avarage_speed => avarage_speed}
+      {:balance => balance, :avarage_speed => avarage_speed.round}
 
 
   end
